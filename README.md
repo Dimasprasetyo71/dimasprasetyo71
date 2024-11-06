@@ -5,7 +5,6 @@
 - 👨‍💻 All of my projects are available at [https://dimasprasetyo.vercel.app/](https://dimasprasetyo.vercel.app/)
 - 💬 Ask me about **react,golang,nextjs,vuejs,nuxtjs**
 - 📫 How to reach me **dimasboy21345@gmail.com**
-- <img width="64" height="64" src="https://img.icons8.com/nolan/64/osu--v2.png" alt="osu--v2"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
