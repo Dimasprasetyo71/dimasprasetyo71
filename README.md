@@ -14,7 +14,7 @@
   <img src="https://profile-counter.glitch.me/dimasprasetyo71/count.svg" alt="Visitor's Count" />
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Languages and Tools
 
 <br>
 
