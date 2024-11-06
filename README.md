@@ -101,6 +101,6 @@
   </picture>
 </div>
 
-## ![SpotifyTaigaGIF](https://github.com/user-attachments/assets/99095f2c-bcb9-4674-b17a-5c30ac618e48) My Music
+## 🎶 My Music
 
 <img alt="spotify music api" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dysviqtjlfxwb3o67jca4ykiq4&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dysviqtjlfxwb3o67jca4ykiq4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=2ef1ff&bar_color_cover=false)"/>
