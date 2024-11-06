@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimas Prasetyo</h1> 
-<img align="center" src="/bronya-honkai-impact.gif" alt="dimasprasetyo71" />
+<img align="center" width="100" height="132" src="/bronya-honkai-impact.gif" alt="dimasprasetyo71" />
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimasprasetyo71&label=Profile%20views&color=0e75b6&style=flat" alt="dimasprasetyo71" /> </p>
 
