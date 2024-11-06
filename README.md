@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimas Prasetyo</h1> 
-<div class="tenor-gif-embed" data-postid="15776160083894811120" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/bronya-honkai-impact-honkai-bronyaverse-gif-15776160083894811120">Bronya Honkai Impact GIF</a>from <a href="https://tenor.com/search/bronya-gifs">Bronya GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="center" src="/bronya-honkai-impact.gif" alt="dimasprasetyo71" />
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimasprasetyo71&label=Profile%20views&color=0e75b6&style=flat" alt="dimasprasetyo71" /> </p>
 
