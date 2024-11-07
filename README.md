@@ -1,11 +1,4 @@
-<style>
-h1 {
-    background-size: cover;
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: blue;
-}
-</style>
+
 <h1 style="color: blue;" align="center">Hi 👋, I'm Dimas Prasetyo</h1> 
 <img align="right" width="200" height="200" src="/bronya-honkai-impact.gif" alt="dimasprasetyo71" />
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
