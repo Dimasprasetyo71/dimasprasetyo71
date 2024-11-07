@@ -118,57 +118,60 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profil%20dilihat-311-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-311-blue)
 
-**🐱 Dataku di GitHub** 
+**🐱 My GitHub Data** 
 
-> 📦 ? Digunakan di GitHub Storage 
+> 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 159 Kontribusi pada 2024
+> 🏆 159 Contributions in the Year 2024
  > 
-> 🚫 Tidak sedang bisa dipekerjakan
+> 🚫 Not Opted to Hire
  > 
-> 📜 23 Repositori publik 
+> 📜 23 Public Repositories 
  > 
-> 🔑 0 Repositori pribadi 
+> 🔑 0 Private Repositories 
  > 
-**Aku orangnya nokturnal 🦉** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Pagi                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-🌆 Siang                  47 commits          ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-🌃 Petang                 43 commits          ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
-🌙 Malam                  77 commits          ███████████░░░░░░░░░░░░░░   42.54 % 
+🌞 Morning                14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+🌆 Daytime                47 commits          ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+🌃 Evening                44 commits          ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
+🌙 Night                  77 commits          ███████████░░░░░░░░░░░░░░   42.31 % 
 ```
-📅 **Paling produktif saat Kamis** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Senin                    25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Selasa                   40 commits          ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-Rabu                     4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Kamis                    83 commits          ███████████░░░░░░░░░░░░░░   45.86 % 
-Jumat                    3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Sabtu                    20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Minggu                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Monday                   25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Tuesday                  40 commits          █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Wednesday                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Thursday                 84 commits          ████████████░░░░░░░░░░░░░   46.15 % 
+Friday                   3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Saturday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Sunday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 ```
 
 
-📊 **Minggu ini menghabiskan waktu di** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Zona waktu: Asia/Jakarta
+🕑︎ Time Zone: Asia/Jakarta
 
-💬 Bahasa: 
-Tidak ada aktivitas dilacak minggu Ini
+💬 Programming Languages: 
+No Activity Tracked This Week
 
-🔥 Editor: 
-Tidak ada aktivitas dilacak minggu Ini
+🔥 Editors: 
+No Activity Tracked This Week
 
-🐱‍💻 Proyek: 
-Tidak ada aktivitas dilacak minggu Ini
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
 ```
 
-**Kebanyakan menulis dalam bahasa TypeScript** 
+**I Mostly Code in TypeScript** 
 
 ```text
 TypeScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
@@ -180,12 +183,12 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
-**Lini masa**
+**Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2024 12:58:08 UTC
+ Last Updated on 07/11/2024 13:04:53 UTC
 <!--END_SECTION:waka-->
 
 ## ⁉️ quotes
