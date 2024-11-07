@@ -121,4 +121,4 @@ No activity tracked
 ## ⁉️ quotes
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal?theme=catppuccin_mocha?quote=YourQuot)
 
-<img align="right" width="200" height="200" src="/bronya-honkai-impact.gif" alt="dimasprasetyo71" />
+<img align="center" width="200" height="200" src="/bronya-honkai-impact.gif" alt="dimasprasetyo71" />
