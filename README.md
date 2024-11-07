@@ -1,4 +1,33 @@
-<h1 style="color: blue;" align="center">Hi 👋, I'm Dimas Prasetyo</h1> 
+<svg xmlns="http://www.w3.org/2000/svg" width="400px" height="110px" text-anchor="middle">
+  <defs>
+    <style>
+      @font-face {
+        font-family: "Carlito";
+        src: url(data:application/font-ttf;charset=utf-8;base64,base64_data);
+        font-weight: normal;
+        font-style: normal;
+      }
+      .heading {
+        font-family: "Carlito";
+        font-size: 36px;
+        fill: #3B3838;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+      }
+      .sub-heading {
+        font-family: "Carlito";
+        font-size: 20px;
+        fill: #767171;
+        letter-spacing: 0.5px;
+      }
+    </style>
+  </defs>
+
+  <text class="heading" x="50%" y="40">
+    Dimas Prasetyo
+  </text>
+
+</svg>
 
 <img align="right" src="/banner.png" alt="dimasprasetyo71" />
 
