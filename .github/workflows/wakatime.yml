@@ -14,13 +14,14 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_LANGUAGE: "True"        # Menampilkan bahasa pemrograman
-          SHOW_OS: "True"             # Menampilkan sistem operasi
-          SHOW_PROJECTS: "True"       # Menampilkan proyek yang dikerjakan
-          SHOW_TIMEZONE: "True"       # Menampilkan zona waktu
-          SHOW_EDITORS: "True"        # Menampilkan editor yang digunakan
-          SHOW_LANGUAGE_PER_REPO: "True"  # Menampilkan bahasa di setiap repositori
-          SHOW_SHORT_INFO: "True"     # Menampilkan informasi singkat tentang pengguna
+          SHOW_LANGUAGE: "True"       
+          SHOW_OS: "True"            
+          SHOW_PROJECTS: "True"       
+          SHOW_TIMEZONE: "True"       
+          SHOW_EDITORS: "True"        
+          SHOW_LANGUAGE_PER_REPO: "True"  
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_SHORT_INFO: "True"    
           COMMIT_BY_ME: "True" 
           COMMIT_MESSAGE: "Updated README with Dev Metrics"
           LOCALE: "en"            
