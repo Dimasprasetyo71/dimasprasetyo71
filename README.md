@@ -1,20 +1,5 @@
 
 <h1 style="color: blue;" align="center">Hi 👋, I'm Dimas Prasetyo</h1> 
-<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
-        <defs>
-          <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" style="stop-color:#ff0000; stop-opacity:1" />
-            <stop offset="100%" style="stop-color:#0000ff; stop-opacity:1" />
-          </linearGradient>
-        </defs>
-        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-              fill="none" stroke="url(#gradient1)" stroke-width="2"
-              font-size="48" font-family="Lobster" font-weight="bold"
-              stroke-dasharray="500" stroke-dashoffset="500">
-          Dimas Prasetyo
-          <animate attributeName="stroke-dashoffset" from="500" to="0" dur="3s" fill="freeze" />
-        </text>
-      </svg>
 <img align="right" width="200" height="200" src="/bronya-honkai-impact.gif" alt="dimasprasetyo71" />
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimasprasetyo71&label=Profile%20views&color=0e75b6&style=flat" alt="dimasprasetyo71" /> </p>
