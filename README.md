@@ -116,7 +116,81 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-311-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-138.8%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 159 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+🌆 Daytime                47 commits          ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+🌃 Evening                47 commits          ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+🌙 Night                  77 commits          ██████████░░░░░░░░░░░░░░░   41.62 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Tuesday                  40 commits          █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Wednesday                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Thursday                 87 commits          ████████████░░░░░░░░░░░░░   47.03 % 
+Friday                   3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Saturday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Sunday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
+
+
+ Last Updated on 07/11/2024 13:12:12 UTC
 <!--END_SECTION:waka-->
 
 ## ⁉️ quotes
