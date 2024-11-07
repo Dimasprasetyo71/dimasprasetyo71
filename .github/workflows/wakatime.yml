@@ -1,31 +1,17 @@
-name: WakaTime README Update
+name: Waka Readme
 
 on:
+  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # Menjalankan setiap hari pada pukul 12:00 UTC (bisa disesuaikan)
-    - cron: '0 0 * * *'
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
-    name: Update README dengan Statistik WakaTime
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      # Checkout repository kamu
-      - name: Checkout Repo
-        uses: actions/checkout@v2
-
-      # Jalankan WakaTime Action untuk memperbarui README
-      - name: Update README dengan Statistik WakaTime
-        uses: dimasprasetyo71/waka-readme-stats@master
+      - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
-      # Commit perubahan ke repository
-      - name: Commit Changes
-        run: |
-          git config --local user.name "dimasprasetyo71"
-          git config --local user.email "dimasboy21345@gmail.com"
-          git add README.md
-          git commit -m "Update README dengan Statistik WakaTime" || echo "Tidak ada perubahan yang perlu di-commit"
-          git push
