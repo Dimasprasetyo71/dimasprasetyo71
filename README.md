@@ -1,3 +1,4 @@
+Background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 <h1 style="color: blue;" align="center">Hi 👋, I'm Dimas Prasetyo</h1> 
 <img align="right" width="200" height="200" src="/bronya-honkai-impact.gif" alt="dimasprasetyo71" />
