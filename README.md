@@ -87,7 +87,7 @@
 
 <br>
 
-[<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasprasetyo71&show_icons=true&locale=en&layout=compact&theme=radical" alt="dimasprasetyo71" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasprasetyo71&show_icons=true&locale=en&layout=compact&theme=radical" alt="dimasprasetyo71" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimasprasetyo71" alt="dimasprasetyo71" /></a> </p>
 
