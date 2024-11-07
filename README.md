@@ -2,8 +2,6 @@
 
 <img align="right" src="/banner.png" alt="dimasprasetyo71" />
 
-<img align="right" width="200" height="200" src="/bronya-honkai-impact.gif" alt="dimasprasetyo71" />
-
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimasprasetyo71&label=Profile%20views&color=0e75b6&style=flat" alt="dimasprasetyo71" /> </p>
@@ -122,4 +120,5 @@ No activity tracked
 
 ## ⁉️ quotes
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal?theme=catppuccin_mocha?quote=YourQuot)
-</div>
+
+<img align="right" width="200" height="200" src="/bronya-honkai-impact.gif" alt="dimasprasetyo71" />
