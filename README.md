@@ -82,7 +82,7 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimasprasetyo71&show_icons=true&locale=en&theme=radical" alt="dimasprasetyo71" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimasprasetyo71&show_icons=true&locale=id&theme=radical" alt="dimasprasetyo71" /></p>
 
 <br>
 
