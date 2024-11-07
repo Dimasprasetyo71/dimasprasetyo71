@@ -116,11 +116,76 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-```txt
-No activity tracked
+![Profile Views](http://img.shields.io/badge/Profil%20dilihat-311-blue)
+
+**🐱 Dataku di GitHub** 
+
+> 📦 ? Digunakan di GitHub Storage 
+ > 
+> 🏆 159 Kontribusi pada 2024
+ > 
+> 🚫 Tidak sedang bisa dipekerjakan
+ > 
+> 📜 23 Repositori publik 
+ > 
+> 🔑 0 Repositori pribadi 
+ > 
+**Aku orangnya nokturnal 🦉** 
+
+```text
+🌞 Pagi                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+🌆 Siang                  47 commits          ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+🌃 Petang                 43 commits          ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+🌙 Malam                  77 commits          ███████████░░░░░░░░░░░░░░   42.54 % 
+```
+📅 **Paling produktif saat Kamis** 
+
+```text
+Senin                    25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Selasa                   40 commits          ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+Rabu                     4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Kamis                    83 commits          ███████████░░░░░░░░░░░░░░   45.86 % 
+Jumat                    3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Sabtu                    20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Minggu                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 ```
 
+
+📊 **Minggu ini menghabiskan waktu di** 
+
+```text
+🕑︎ Zona waktu: Asia/Jakarta
+
+💬 Bahasa: 
+Tidak ada aktivitas dilacak minggu Ini
+
+🔥 Editor: 
+Tidak ada aktivitas dilacak minggu Ini
+
+🐱‍💻 Proyek: 
+Tidak ada aktivitas dilacak minggu Ini
+```
+
+**Kebanyakan menulis dalam bahasa TypeScript** 
+
+```text
+TypeScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+```
+
+
+
+**Lini masa**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
+
+
+ Last Updated on 07/11/2024 12:58:08 UTC
 <!--END_SECTION:waka-->
 
 ## ⁉️ quotes
