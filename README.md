@@ -1,4 +1,4 @@
-<div style="background-color: #f6f8fa; padding: 10px; border-radius: 5px;">
+<div style="background-color: ##FFFFFF; padding: 10px; border-radius: 5px;">
 <h1 align="center">Hi 👋, I'm Dimas Prasetyo</h1> 
 <img align="right" width="200" height="200" src="/bronya-honkai-impact.gif" alt="dimasprasetyo71" />
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
@@ -118,3 +118,5 @@ No activity tracked
 
 ## ⁉️ quotes
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal?theme=catppuccin_mocha?quote=YourQuot)
+</div>
+<
