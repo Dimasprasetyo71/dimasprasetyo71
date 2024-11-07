@@ -82,12 +82,12 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimasprasetyo71&show_icons=true&locale=id&theme=radical" alt="dimasprasetyo71" /></p>
+
+<p>&nbsp;<img align="center" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&show_icons=true&locale=id&username=dimasprasetyo71" alt="dimasprasetyo71" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasprasetyo71&show_icons=true&locale=en&layout=compact&theme=radical" alt="dimasprasetyo71" /></p>
-
+[<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasprasetyo71&show_icons=true&locale=en&layout=compact&theme=radical" alt="dimasprasetyo71" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimasprasetyo71" alt="dimasprasetyo71" /></a> </p>
 
