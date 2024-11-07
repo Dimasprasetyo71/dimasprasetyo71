@@ -122,18 +122,7 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-138.8%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 159 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 23 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -186,8 +175,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 **Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
  Last Updated on 07/11/2024 13:12:12 UTC
