@@ -116,4 +116,4 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 ## ⁉️ quotes
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha??quote=YourQuot)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal?theme=catppuccin_mocha??quote=YourQuot)
