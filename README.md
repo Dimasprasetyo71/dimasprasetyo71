@@ -86,9 +86,10 @@
 
 ## ⚡️ Stats
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimasprasetyo71&background=45%2CEBEBEB%2C135DEB&border=EB0000&ring=2580EB&sideLabels=EB2525&fire=04EBD5" alt="dimasprasetyo71 />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimasprasetyo71&background=45%2CEBEBEB%2C135DEB&border=EB0000&ring=2580EB&sideLabels=EB2525&fire=04EBD5" alt="dimasprasetyo71" />
 
-https://github-widgetbox.vercel.app/api/profile?username=dimasprasetyo71&data=followers,repositories,stars,commits&theme=darkmode%22 
+<img src="https://github-widgetbox.vercel.app/api/profile?username=dimasprasetyo71&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Widget for dimasprasetyo71" />
+
 <br>
 
 
