@@ -204,7 +204,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1177955196140257380)](https://discord.com/users/1177955196140257380)
 
-## pytext
+## asci generator python
 ```sh
     ____  _                         ____                       __            
    / __ \(_)___ ___  ____ ______   / __ \_________ _________  / /___  ______ 
