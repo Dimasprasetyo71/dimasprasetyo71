@@ -202,7 +202,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 <img align="center" width="200" height="200" src="/bronya-honkai-impact.gif" alt="dimasprasetyo71" />
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1177955196140257380)](https://discord.com/users/1177955196140257380)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1177955196140257380?theme=light&bg=809ecf)](https://discord.com/users/1177955196140257380)
 
 ## asci generator python
 ```sh
