@@ -201,3 +201,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal?theme=catppuccin_mocha?quote=YourQuot)
 
 <img align="center" width="200" height="200" src="/bronya-honkai-impact.gif" alt="dimasprasetyo71" />
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1177955196140257380)](https://discord.com/users/1177955196140257380)
+
