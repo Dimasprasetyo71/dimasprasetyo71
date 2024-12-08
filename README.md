@@ -117,17 +117,15 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-142.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 152 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -199,7 +197,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 08/12/2024 07:30:33 UTC
+ Last Updated on 08/12/2024 18:41:51 UTC
 <!--END_SECTION:waka-->
 
 ## ⁉️ quotes
