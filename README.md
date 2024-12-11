@@ -116,10 +116,12 @@
 
 
 ## Coding Time
+<div align="center">
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
+
 
 **🐱 My GitHub Data** 
 
@@ -200,13 +202,14 @@ Java                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 11/12/2024 03:03:15 UTC
 <!--END_SECTION:waka-->
+</div>
 
 ## ⁉️ quotes
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal?theme=catppuccin_mocha?quote=YourQuot)
+<div align="center">![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal?theme=catppuccin_mocha?quote=YourQuot)</div>
 
 <img align="center" width="200" height="200" src="/bronya-honkai-impact.gif" alt="dimasprasetyo71" />
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1177955196140257380)](https://discord.com/users/1177955196140257380)
+<div align"center">[![Discord Presence](https://lanyard.cnrad.dev/api/1177955196140257380)](https://discord.com/users/1177955196140257380)</div>
 
 ## asci generator python
 ```sh
