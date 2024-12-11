@@ -16,14 +16,3 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           TIME_RANGE: all_time
           BLOCKS: >
-          # SHOW_LANGUAGE: "True"       
-          # SHOW_OS: "True"            
-          # SHOW_PROJECTS: "True"       
-          # SHOW_TIMEZONE: "True"       
-          # SHOW_EDITORS: "True"        
-          # SHOW_LANGUAGE_PER_REPO: "True"  
-          # SHOW_LINES_OF_CODE: "True"
-          # SHOW_SHORT_INFO: "True"    
-          # COMMIT_BY_ME: "True" 
-          # COMMIT_MESSAGE: "Updated README with Dev Metrics"
-          # LOCALE: "en"            
