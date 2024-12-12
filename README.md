@@ -117,15 +117,13 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-123-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 173 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -199,7 +197,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 12/12/2024 14:20:45 UTC
+ Last Updated on 12/12/2024 16:27:14 UTC
 <!--END_SECTION:waka-->
 
 
