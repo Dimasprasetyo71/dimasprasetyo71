@@ -117,7 +117,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue)
 
@@ -199,7 +199,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 17/12/2024 12:42:04 UTC
+ Last Updated on 17/12/2024 14:20:14 UTC
 <!--END_SECTION:waka-->
 
 
