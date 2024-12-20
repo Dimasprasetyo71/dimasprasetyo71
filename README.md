@@ -117,7 +117,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-137-blue)
 
@@ -129,7 +129,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -199,7 +199,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2024 12:37:19 UTC
+ Last Updated on 20/12/2024 14:17:52 UTC
 <!--END_SECTION:waka-->
 
 
