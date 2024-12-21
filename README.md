@@ -3,7 +3,7 @@
 <img align="right" src="/banner.png" alt="dimasprasetyo71" />
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimasprasetyo71&label=Profile%20views&color=0e75b6&style=flat" alt="dimasprasetyo71" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimasprasetyo71&label=Profile%20views&color=0e75b6&style=flat" alt="dimasprasetyo71" /></p>
 
 - 👨‍💻 All of my projects are available at [https://dimasprasetyo.vercel.app/](https://dimasprasetyo.vercel.app/)
 - 💬 Ask me about **react,golang,nextjs,vuejs,nuxtjs**
