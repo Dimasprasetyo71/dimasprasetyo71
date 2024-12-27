@@ -94,8 +94,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 184 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -167,7 +165,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2024 01:25:15 UTC
+ Last Updated on 27/12/2024 02:50:37 UTC
 <!--END_SECTION:waka-->
 
 
