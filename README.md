@@ -86,7 +86,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%205%20mins-blue)
+[![wakatime](https://wakatime.com/badge/user/09c27f68-6a29-41c2-a43c-8660dfc3f2a1.svg)](https://wakatime.com/@09c27f68-6a29-41c2-a43c-8660dfc3f2a1)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
 
