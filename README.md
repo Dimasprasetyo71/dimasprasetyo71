@@ -1,4 +1,4 @@
-<h1 style="color: blue;" align="center">Hi 👋, I'm Dimas Prasetyo</h1> 
+<h1 style="color: blue;" align="center">Hi 👋,  I'm Dimas Prasetyo</h1> 
 
 <img align="right" src="/banner.png" alt="dimasprasetyo71" />
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
