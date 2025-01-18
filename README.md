@@ -94,8 +94,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 14 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -167,7 +165,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 18/01/2025 20:19:02 UTC
+ Last Updated on 18/01/2025 22:17:02 UTC
 <!--END_SECTION:waka-->
 
 
