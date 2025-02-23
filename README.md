@@ -86,7 +86,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
@@ -129,24 +129,25 @@ Sunday                   11 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               13 hrs 2 mins       ███████████████████░░░░░░   75.57 % 
-Assembly                 1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-JavaScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-HTML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+TypeScript               11 hrs 44 mins      █████████████████████░░░░   82.47 % 
+JavaScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+HTML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+CSS                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 11 mins      █████████████████████████   99.59 % 
-Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+VS Code                  14 hrs 10 mins      █████████████████████████   99.51 % 
+Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🐱‍💻 Projects: 
-porto                    13 hrs 54 mins      ████████████████████░░░░░   80.64 % 
-notepad_for_windows      1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-belajarAsm_gabut         1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+porto                    12 hrs 12 mins      █████████████████████░░░░   85.69 % 
+notepad_for_windows      1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+blogapplication          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+belajarAsm_gabut         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 Operating System: 
-Windows                  17 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -166,7 +167,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2025 16:21:36 UTC
+ Last Updated on 23/02/2025 20:20:12 UTC
 <!--END_SECTION:waka-->
 
 
