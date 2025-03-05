@@ -86,7 +86,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
@@ -129,23 +129,23 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      11 hrs 35 mins      █████████████░░░░░░░░░░░░   50.55 % 
-TypeScript               6 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.76 % 
-JavaScript               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Blade Template           51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-CSS                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+PHP                      13 hrs 53 mins      █████████████░░░░░░░░░░░░   51.36 % 
+Blade Template           4 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+TypeScript               2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+JavaScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+CSS                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 9 mins       ████████████████████████░   96.58 % 
-Neovim                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+VS Code                  26 hrs 15 mins      ████████████████████████░   97.10 % 
+Neovim                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🐱‍💻 Projects: 
-ecomerce                 15 hrs 49 mins      █████████████████░░░░░░░░   68.93 % 
-porto                    6 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.72 % 
-belajarAsm_gabut         18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+ecomerce                 24 hrs              ██████████████████████░░░   88.75 % 
+porto                    2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+belajarAsm_gabut         18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 💻 Operating System: 
-Windows                  22 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -165,7 +165,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 05/03/2025 18:29:29 UTC
+ Last Updated on 05/03/2025 20:22:52 UTC
 <!--END_SECTION:waka-->
 
 
