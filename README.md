@@ -86,7 +86,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-273%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
@@ -94,7 +94,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 27 Contributions in the Year 2025
+> 🏆 29 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -105,21 +105,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-🌆 Daytime                75 commits          ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-🌃 Evening                121 commits         ██████████░░░░░░░░░░░░░░░   38.29 % 
-🌙 Night                  100 commits         ████████░░░░░░░░░░░░░░░░░   31.65 % 
+🌞 Morning                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+🌆 Daytime                75 commits          ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+🌃 Evening                123 commits         ██████████░░░░░░░░░░░░░░░   38.68 % 
+🌙 Night                  100 commits         ████████░░░░░░░░░░░░░░░░░   31.45 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   70 commits          ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-Tuesday                  58 commits          █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Wednesday                29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Thursday                 94 commits          ███████░░░░░░░░░░░░░░░░░░   29.75 % 
-Friday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Saturday                 36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Sunday                   12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Monday                   70 commits          ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+Tuesday                  58 commits          █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Wednesday                31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Thursday                 94 commits          ███████░░░░░░░░░░░░░░░░░░   29.56 % 
+Friday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Saturday                 36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Sunday                   12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 ```
 
 
@@ -152,8 +152,8 @@ Windows                  22 hrs 56 mins      ███████████�
 
 ```text
 Rust                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Blade                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
@@ -165,7 +165,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 05/03/2025 10:22:08 UTC
+ Last Updated on 05/03/2025 12:39:44 UTC
 <!--END_SECTION:waka-->
 
 
