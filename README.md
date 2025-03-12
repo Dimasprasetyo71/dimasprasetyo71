@@ -24,7 +24,7 @@
 
 <br>
 
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/clessss?theme=catppuccinMocha&font=Purple%20Purse&ext=activity)
 
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 
