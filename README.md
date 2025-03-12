@@ -86,17 +86,19 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-286%20hrs%2037%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 95.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 20 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 24 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -162,7 +164,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2025 13:04:32 UTC
+ Last Updated on 12/03/2025 13:07:51 UTC
 <!--END_SECTION:waka-->
 
 
