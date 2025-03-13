@@ -127,24 +127,24 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Blade Template           8 hrs 6 mins        ████████████████░░░░░░░░░   65.38 % 
-PHP                      1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-CSS                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Bash                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Blade Template           7 hrs 40 mins       ████████████████████░░░░░   79.66 % 
+Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+PHP                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+CSS                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 23 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 38 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ecomerce                 12 hrs 11 mins      █████████████████████████   98.35 % 
-porto                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-blogapplication          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-45                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-tesss                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+ecomerce                 9 hrs 25 mins       ████████████████████████░   97.87 % 
+porto                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+blogapplication          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+45                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+tesss                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Windows                  12 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -164,7 +164,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2025 16:27:16 UTC
+ Last Updated on 13/03/2025 20:22:44 UTC
 <!--END_SECTION:waka-->
 
 
