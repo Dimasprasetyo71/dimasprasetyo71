@@ -86,7 +86,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
 
@@ -127,22 +127,22 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Blade Template           1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   35.19 % 
-Lua                      45 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Svelte                   27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-TypeScript               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-PHP                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Blade Template           1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   35.29 % 
+Lua                      45 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Svelte                   27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+TypeScript               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+PHP                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 21 mins       ███████████████████░░░░░░   75.96 % 
-Neovim                   1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+VS Code                  3 hrs 20 mins       ███████████████████░░░░░░   75.89 % 
+Neovim                   1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
 
 🐱‍💻 Projects: 
-ecomerce                 2 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.73 % 
-svelte                   31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-singlepage               28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-nvim                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Unknown Project          24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+ecomerce                 2 hrs 10 mins       ████████████░░░░░░░░░░░░░   49.59 % 
+svelte                   31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+singlepage               28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+nvim                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Unknown Project          24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
 
 💻 Operating System: 
 Windows                  4 hrs 24 mins       █████████████████████████   100.00 % 
@@ -165,7 +165,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 21/03/2025 16:26:28 UTC
+ Last Updated on 21/03/2025 20:22:22 UTC
 <!--END_SECTION:waka-->
 
 
