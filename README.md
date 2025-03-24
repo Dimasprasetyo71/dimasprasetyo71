@@ -127,25 +127,25 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Assembly                 48 mins             ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-Lua                      45 mins             █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-Svelte                   27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-TypeScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Blade Template           22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Lua                      45 mins             ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+Assembly                 34 mins             █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+Blade Template           22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+TypeScript               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+PHP                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 
 🔥 Editors: 
-VS Code                  1 hr 44 mins        █████████████░░░░░░░░░░░░   50.51 % 
-Neovim                   1 hr 42 mins        ████████████░░░░░░░░░░░░░   49.49 % 
+Neovim                   1 hr 42 mins        ████████████████░░░░░░░░░   63.48 % 
+VS Code                  58 mins             █████████░░░░░░░░░░░░░░░░   36.52 % 
 
 🐱‍💻 Projects: 
-belajarAsm_gabut         52 mins             ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-ecomerce                 34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-svelte                   31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-singlepage               28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-nvim                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+belajarAsm_gabut         38 mins             ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+ecomerce                 34 mins             █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+singlepage               28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+nvim                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Unknown Project          24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
 
 💻 Operating System: 
-Windows                  3 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -165,7 +165,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 24/03/2025 16:27:59 UTC
+ Last Updated on 24/03/2025 20:21:16 UTC
 <!--END_SECTION:waka-->
 
 
