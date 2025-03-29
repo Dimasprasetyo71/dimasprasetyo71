@@ -86,7 +86,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -129,25 +129,25 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      53 mins             █████████░░░░░░░░░░░░░░░░   36.23 % 
-Assembly                 34 mins             ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-Blade Template           15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+JavaScript               2 hrs 37 mins       ████████████░░░░░░░░░░░░░   46.47 % 
+PHP                      58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+JSON                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Other                    35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Blade Template           15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 🔥 Editors: 
-VS Code                  1 hr 24 mins        ██████████████░░░░░░░░░░░   57.85 % 
-Neovim                   1 hr 1 min          ███████████░░░░░░░░░░░░░░   42.15 % 
+VS Code                  4 hrs 54 mins       ██████████████████████░░░   87.07 % 
+Neovim                   43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
 
 🐱‍💻 Projects: 
-ecomerce                 1 hr 21 mins        ██████████████░░░░░░░░░░░   55.69 % 
-belajarAsm_gabut         38 mins             ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-Unknown Project          23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-travel-app               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-nvim                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+backend                  2 hrs 53 mins       █████████████░░░░░░░░░░░░   51.25 % 
+ecomerce                 1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
+Unknown Project          40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+travel                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+travel-app               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-Windows                  2 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -167,7 +167,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 29/03/2025 16:24:06 UTC
+ Last Updated on 29/03/2025 20:20:41 UTC
 <!--END_SECTION:waka-->
 
 
