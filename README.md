@@ -92,7 +92,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 96.0 kB Used in GitHub's Storage 
+> 📦 96.1 kB Used in GitHub's Storage 
  > 
 > 🏆 9 Contributions in the Year 2025
  > 
@@ -129,25 +129,25 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               2 hrs 37 mins       ████████████░░░░░░░░░░░░░   46.47 % 
-PHP                      58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-JSON                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Other                    35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Blade Template           15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+JavaScript               4 hrs 5 mins        ██████████████░░░░░░░░░░░   57.35 % 
+PHP                      58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+JSON                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Blade Template           15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 54 mins       ██████████████████████░░░   87.07 % 
-Neovim                   43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+VS Code                  6 hrs 19 mins       ██████████████████████░░░   88.62 % 
+Neovim                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
 
 🐱‍💻 Projects: 
-backend                  2 hrs 53 mins       █████████████░░░░░░░░░░░░   51.25 % 
-ecomerce                 1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
-Unknown Project          40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-travel                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-travel-app               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+backend                  4 hrs 22 mins       ███████████████░░░░░░░░░░   61.43 % 
+ecomerce                 1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+Unknown Project          40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+travel                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+travel-app               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Windows                  5 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -167,7 +167,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 30/03/2025 16:23:52 UTC
+ Last Updated on 30/03/2025 20:21:49 UTC
 <!--END_SECTION:waka-->
 
 
