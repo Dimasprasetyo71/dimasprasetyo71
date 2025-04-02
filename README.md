@@ -129,25 +129,25 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               4 hrs 26 mins       ██████████████████░░░░░░░   70.63 % 
-JSON                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+JavaScript               4 hrs 26 mins       ██████████████████░░░░░░░   72.39 % 
+JSON                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+TypeScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 28 mins       ██████████████████████░░░   87.09 % 
-Neovim                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+VS Code                  5 hrs 19 mins       ██████████████████████░░░   86.77 % 
+Neovim                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
 
 🐱‍💻 Projects: 
-backend                  4 hrs 45 mins       ███████████████████░░░░░░   75.73 % 
-Unknown Project          40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-travel                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-ecomerce                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-travel-app               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+backend                  4 hrs 45 mins       ███████████████████░░░░░░   77.62 % 
+Unknown Project          40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+travel                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+ecomerce                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+travel-app               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Windows                  6 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -167,7 +167,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2025 18:29:33 UTC
+ Last Updated on 02/04/2025 20:22:54 UTC
 <!--END_SECTION:waka-->
 
 
