@@ -86,13 +86,15 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 96.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 9 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -127,25 +129,25 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               4 hrs 26 mins       ██████████████████░░░░░░░   72.39 % 
-JSON                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-TypeScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+JavaScript               4 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   39.04 % 
+TypeScript               4 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.91 % 
+JSON                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 19 mins       ██████████████████████░░░   86.77 % 
-Neovim                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+VS Code                  10 hrs 20 mins      ████████████████████████░   95.32 % 
+Neovim                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 
 🐱‍💻 Projects: 
-backend                  4 hrs 45 mins       ███████████████████░░░░░░   77.62 % 
-Unknown Project          40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-travel                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-ecomerce                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-travel-app               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+barbershop               5 hrs               ████████████░░░░░░░░░░░░░   46.19 % 
+backend                  4 hrs 50 mins       ███████████░░░░░░░░░░░░░░   44.59 % 
+travel                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+ecomerce                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Windows                  6 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  10 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -165,7 +167,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2025 16:26:01 UTC
+ Last Updated on 04/04/2025 20:22:45 UTC
 <!--END_SECTION:waka-->
 
 
