@@ -86,7 +86,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-310%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -105,21 +105,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-🌆 Daytime                77 commits          ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
-🌃 Evening                125 commits         ██████████░░░░░░░░░░░░░░░   38.70 % 
-🌙 Night                  101 commits         ████████░░░░░░░░░░░░░░░░░   31.27 % 
+🌞 Morning                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+🌆 Daytime                77 commits          ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+🌃 Evening                125 commits         ██████████░░░░░░░░░░░░░░░   38.58 % 
+🌙 Night                  102 commits         ████████░░░░░░░░░░░░░░░░░   31.48 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   70 commits          █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-Tuesday                  58 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-Wednesday                32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Thursday                 96 commits          ███████░░░░░░░░░░░░░░░░░░   29.72 % 
-Friday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Saturday                 37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Sunday                   12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Monday                   70 commits          █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+Tuesday                  58 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Wednesday                32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Thursday                 96 commits          ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+Friday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Saturday                 37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Sunday                   13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 ```
 
 
@@ -129,25 +129,25 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               4 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   39.04 % 
-TypeScript               4 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.91 % 
-JSON                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+TypeScript               7 hrs 54 mins       █████████████████░░░░░░░░   66.03 % 
+JavaScript               1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Bash                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Prisma                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 20 mins      ████████████████████████░   95.32 % 
-Neovim                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+VS Code                  11 hrs 30 mins      ████████████████████████░   96.01 % 
+Neovim                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 🐱‍💻 Projects: 
-barbershop               5 hrs               ████████████░░░░░░░░░░░░░   46.19 % 
-backend                  4 hrs 50 mins       ███████████░░░░░░░░░░░░░░   44.59 % 
-travel                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-ecomerce                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+barbershop               9 hrs 57 mins       █████████████████████░░░░   83.06 % 
+backend                  1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+nvim                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+ecomerce                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+porto                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  10 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -167,7 +167,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 05/04/2025 16:24:04 UTC
+ Last Updated on 05/04/2025 20:20:49 UTC
 <!--END_SECTION:waka-->
 
 
