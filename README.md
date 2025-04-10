@@ -86,7 +86,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -129,25 +129,25 @@ Sunday                   13 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               22 hrs 36 mins      █████████████████████░░░░   84.24 % 
-Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Prisma                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+TypeScript               23 hrs 19 mins      █████████████████████░░░░   84.60 % 
+Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Prisma                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 3 mins       ████████████████████████░   97.13 % 
-Neovim                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+VS Code                  26 hrs 47 mins      ████████████████████████░   97.20 % 
+Neovim                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 🐱‍💻 Projects: 
-barbershop               26 hrs 21 mins      █████████████████████████   98.26 % 
-blogapplication          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-nvim                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-ecomerce                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+barbershop               27 hrs 5 mins       █████████████████████████   98.30 % 
+blogapplication          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+nvim                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+ecomerce                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 porto                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  26 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -167,7 +167,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2025 16:27:32 UTC
+ Last Updated on 10/04/2025 20:23:15 UTC
 <!--END_SECTION:waka-->
 
 
