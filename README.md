@@ -94,8 +94,6 @@
 
 > 📦 96.8 kB Used in GitHub's Storage 
  > 
-> 🏆 10 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 21 Public Repositories 
@@ -129,22 +127,21 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               12 hrs 3 mins       █████████████████████░░░░   84.48 % 
-YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-Java                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-PHP                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+TypeScript               7 hrs 15 mins       █████████████████████░░░░   83.75 % 
+YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+PHP                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 16 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-barbershop               13 hrs 36 mins      ████████████████████████░   95.39 % 
-ecomerce                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-blogapplication          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+barbershop               8 hrs 19 mins       ████████████████████████░   96.01 % 
+ecomerce                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 💻 Operating System: 
-Windows                  14 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -164,7 +161,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2025 16:25:37 UTC
+ Last Updated on 15/04/2025 20:23:51 UTC
 <!--END_SECTION:waka-->
 
 
