@@ -129,21 +129,21 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 hrs 22 mins       █████████████████░░░░░░░░   67.41 % 
-YAML                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-PHP                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+TypeScript               1 hr                ██████████████░░░░░░░░░░░   55.07 % 
+PHP                      15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+YAML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-barbershop               3 hrs 11 mins       ███████████████████████░░   90.21 % 
-ecomerce                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+barbershop               1 hr 29 mins        ████████████████████░░░░░   81.12 % 
+ecomerce                 20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
 
 💻 Operating System: 
-Windows                  3 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -163,7 +163,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2025 16:25:53 UTC
+ Last Updated on 18/04/2025 20:22:23 UTC
 <!--END_SECTION:waka-->
 
 
