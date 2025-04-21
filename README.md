@@ -86,7 +86,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-340%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -129,24 +129,25 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               3 hrs 4 mins        ██████████████░░░░░░░░░░░   57.17 % 
-C++                      48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Lua                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-YAML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+TypeScript               3 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.91 % 
+Svelte                   1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+C++                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Lua                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+YAML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 40 mins       █████████████████░░░░░░░░   68.33 % 
-Neovim                   1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   31.67 % 
+VS Code                  5 hrs 14 mins       ████████████████░░░░░░░░░   65.92 % 
+Neovim                   2 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.08 % 
 
 🐱‍💻 Projects: 
-barbershop               3 hrs 56 mins       ██████████████████░░░░░░░   73.27 % 
-Unknown Project          57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-nvim                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-tes_cpp                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+barbershop               3 hrs 58 mins       ████████████░░░░░░░░░░░░░   49.91 % 
+Unknown Project          1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+portonew                 1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+nvim                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+tes_cpp                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 💻 Operating System: 
-Windows                  5 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -166,7 +167,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2025 18:29:10 UTC
+ Last Updated on 21/04/2025 20:23:34 UTC
 <!--END_SECTION:waka-->
 
 
