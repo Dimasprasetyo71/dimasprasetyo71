@@ -86,13 +86,13 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-348%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 96.9 kB Used in GitHub's Storage 
+> 📦 98.7 kB Used in GitHub's Storage 
  > 
 > 🏆 10 Contributions in the Year 2025
  > 
@@ -105,21 +105,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-🌆 Daytime                79 commits          ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-🌃 Evening                125 commits         █████████░░░░░░░░░░░░░░░░   36.98 % 
-🌙 Night                  114 commits         ████████░░░░░░░░░░░░░░░░░   33.73 % 
+🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+🌆 Daytime                79 commits          ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+🌃 Evening                125 commits         █████████░░░░░░░░░░░░░░░░   36.55 % 
+🌙 Night                  118 commits         █████████░░░░░░░░░░░░░░░░   34.50 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   70 commits          █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-Tuesday                  58 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Wednesday                41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Thursday                 96 commits          ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-Friday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-Saturday                 37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Sunday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Monday                   70 commits          █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+Tuesday                  58 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Wednesday                45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Thursday                 96 commits          ███████░░░░░░░░░░░░░░░░░░   28.07 % 
+Friday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Saturday                 37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Sunday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 ```
 
 
@@ -129,25 +129,25 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               3 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.91 % 
-Svelte                   1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-C++                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Lua                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-YAML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Svelte                   8 hrs 14 mins       █████████████░░░░░░░░░░░░   53.37 % 
+TypeScript               3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+C++                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Lua                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 14 mins       ████████████████░░░░░░░░░   65.92 % 
-Neovim                   2 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.08 % 
+VS Code                  12 hrs 34 mins      ████████████████████░░░░░   81.49 % 
+Neovim                   2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
 
 🐱‍💻 Projects: 
-barbershop               3 hrs 58 mins       ████████████░░░░░░░░░░░░░   49.91 % 
-Unknown Project          1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-portonew                 1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-nvim                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-tes_cpp                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+portonew                 9 hrs 46 mins       ████████████████░░░░░░░░░   63.36 % 
+barbershop               2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Unknown Project          2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+nvim                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+tes_cpp                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 💻 Operating System: 
-Windows                  7 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  15 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -167,7 +167,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 22/04/2025 18:29:51 UTC
+ Last Updated on 22/04/2025 20:24:00 UTC
 <!--END_SECTION:waka-->
 
 
