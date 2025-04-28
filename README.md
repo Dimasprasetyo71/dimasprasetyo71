@@ -129,25 +129,25 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Svelte                   10 hrs 9 mins       ██████████████░░░░░░░░░░░   57.12 % 
-Python                   1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-TypeScript               1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-C#                       1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Svelte                   8 hrs 51 mins       █████████████░░░░░░░░░░░░   51.17 % 
+C#                       2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Python                   1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+TypeScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 2 mins       ███████████████████████░░   90.14 % 
-Neovim                   1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+VS Code                  16 hrs 33 mins      ████████████████████████░   95.70 % 
+Neovim                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 
 🐱‍💻 Projects: 
-portonew                 12 hrs 33 mins      ██████████████████░░░░░░░   70.62 % 
-flask_stack              1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Unknown Project          1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-RealtimeChat             1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-nvim                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+portonew                 11 hrs 13 mins      ████████████████░░░░░░░░░   64.86 % 
+flask_stack              1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+ChatApp                  1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+RealtimeChat             1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Unknown Project          42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 💻 Operating System: 
-Windows                  17 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -167,7 +167,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2025 16:26:48 UTC
+ Last Updated on 28/04/2025 20:22:27 UTC
 <!--END_SECTION:waka-->
 
 
