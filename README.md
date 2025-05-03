@@ -86,7 +86,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-359%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -129,25 +129,25 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Svelte                   2 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   40.55 % 
-C#                       2 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.63 % 
-JSON                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-TypeScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Java                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+C#                       3 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   38.74 % 
+Svelte                   2 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   37.81 % 
+JSON                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+TypeScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Java                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 15 mins       █████████████████████████   98.56 % 
-Neovim                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+VS Code                  7 hrs 48 mins       █████████████████████████   98.92 % 
+Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🐱‍💻 Projects: 
-portonew                 3 hrs 51 mins       █████████████░░░░░░░░░░░░   52.44 % 
-ChatApp                  1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-RealtimeChat             1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-nvim                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+portonew                 3 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.90 % 
+ChatApp                  1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+RealtimeChat             1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+finace                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 💻 Operating System: 
-Windows                  7 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -167,7 +167,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 03/05/2025 16:24:57 UTC
+ Last Updated on 03/05/2025 20:21:45 UTC
 <!--END_SECTION:waka-->
 
 
