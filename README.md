@@ -86,13 +86,13 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-359%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 98.8 kB Used in GitHub's Storage 
+> 📦 98.9 kB Used in GitHub's Storage 
  > 
 > 🏆 10 Contributions in the Year 2025
  > 
@@ -129,25 +129,24 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C#                       3 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   38.74 % 
-Svelte                   2 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   37.81 % 
-JSON                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-TypeScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Java                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+C#                       2 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.61 % 
+Svelte                   2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+TypeScript               1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 48 mins       █████████████████████████   98.92 % 
-Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+VS Code                  7 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portonew                 3 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.90 % 
-ChatApp                  1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
-RealtimeChat             1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-finace                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+portonew                 2 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.37 % 
+ChatApp                  1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+frontend                 1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+finace                   1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+RealtimeChat             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 💻 Operating System: 
-Windows                  7 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -167,7 +166,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2025 18:27:52 UTC
+ Last Updated on 04/05/2025 20:22:02 UTC
 <!--END_SECTION:waka-->
 
 
