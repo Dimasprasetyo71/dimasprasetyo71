@@ -86,13 +86,13 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 98.8 kB Used in GitHub's Storage 
+> 📦 98.9 kB Used in GitHub's Storage 
  > 
 > 🏆 10 Contributions in the Year 2025
  > 
@@ -129,24 +129,24 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Svelte                   2 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   37.04 % 
-TypeScript               59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-C#                       56 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-JavaScript               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+TypeScript               1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+C#                       1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   26.50 % 
+JSON                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Bash                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+JavaScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portonew                 2 hrs 46 mins       ████████████░░░░░░░░░░░░░   47.28 % 
-frontend                 1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   27.05 % 
-finace                   1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-api                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+finace                   1 hr 50 mins        ███████████░░░░░░░░░░░░░░   42.10 % 
+frontend                 1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   37.20 % 
+ForumApps                34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+portonew                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+SPA                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 💻 Operating System: 
-Windows                  5 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -166,7 +166,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 06/05/2025 16:26:27 UTC
+ Last Updated on 06/05/2025 20:24:39 UTC
 <!--END_SECTION:waka-->
 
 
