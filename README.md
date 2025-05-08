@@ -129,24 +129,25 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               7 hrs 8 mins        ███████████████░░░░░░░░░░   61.45 % 
-JSON                     1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-C#                       1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+TypeScript               9 hrs 21 mins       ████████████████░░░░░░░░░   65.07 % 
+JSON                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+C#                       1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Bash                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 15 mins      █████████████████████████   99.15 % 
+Neovim                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🐱‍💻 Projects: 
-ForumApps                7 hrs 42 mins       █████████████████░░░░░░░░   66.38 % 
-finace                   1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-frontend                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-portonew                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-SPA                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+ForumApps                9 hrs 10 mins       ████████████████░░░░░░░░░   63.80 % 
+finace                   1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+frontend                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+nest-chat-app            54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+nest-app                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 💻 Operating System: 
-Windows                  11 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -166,7 +167,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2025 16:28:28 UTC
+ Last Updated on 08/05/2025 20:24:27 UTC
 <!--END_SECTION:waka-->
 
 
