@@ -129,25 +129,16 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 hrs 13 mins       ████████████████████░░░░░   80.29 % 
-Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Prisma                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 38 mins       ████████████████████████░   95.58 % 
-Neovim                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ForumApps                1 hr 27 mins        █████████████░░░░░░░░░░░░   52.94 % 
-nest-chat-app            54 mins             ████████░░░░░░░░░░░░░░░░░   32.73 % 
-nest-app                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-barbershop               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-nvim                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 45 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -167,7 +158,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2025 16:28:34 UTC
+ Last Updated on 15/05/2025 20:25:29 UTC
 <!--END_SECTION:waka-->
 
 
