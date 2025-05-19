@@ -86,7 +86,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -129,16 +129,21 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      6 mins              █████████████████████████   100.00 % 
+Svelte                   23 mins             ███████████████████░░░░░░   74.79 % 
+PHP                      6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  31 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ecomerce                 6 mins              █████████████████████████   100.00 % 
+portonew                 24 mins             ████████████████████░░░░░   78.15 % 
+ecomerce                 6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+ForumApps                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+Windows                  31 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -158,7 +163,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2025 16:28:34 UTC
+ Last Updated on 19/05/2025 20:24:22 UTC
 <!--END_SECTION:waka-->
 
 
