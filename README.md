@@ -94,7 +94,7 @@
 
 > 📦 99.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 10 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -129,22 +129,22 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Svelte                   1 hr 1 min          ████████████████░░░░░░░░░   62.87 % 
-TypeScript               25 mins             ███████░░░░░░░░░░░░░░░░░░   26.29 % 
-PHP                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Svelte                   1 hr 18 mins        █████████████████░░░░░░░░   68.34 % 
+TypeScript               25 mins             ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+PHP                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  1 hr 37 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 54 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portonew                 1 hr 31 mins        ███████████████████████░░   92.98 % 
-ecomerce                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-ForumApps                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+portonew                 1 hr 47 mins        ████████████████████████░   94.01 % 
+ecomerce                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+ForumApps                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -164,7 +164,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2025 16:28:55 UTC
+ Last Updated on 21/05/2025 20:24:20 UTC
 <!--END_SECTION:waka-->
 
 
