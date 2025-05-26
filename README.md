@@ -129,21 +129,19 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Svelte                   1 hr 18 mins        ████████████████░░░░░░░░░   62.49 % 
-TypeScript               42 mins             █████████░░░░░░░░░░░░░░░░   34.03 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Svelte                   56 mins             ██████████████░░░░░░░░░░░   55.35 % 
+TypeScript               41 mins             ██████████░░░░░░░░░░░░░░░   40.41 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 41 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portonew                 2 hrs 5 mins        █████████████████████████   99.51 % 
-ForumApps                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+portonew                 1 hr 41 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -163,7 +161,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2025 16:27:02 UTC
+ Last Updated on 26/05/2025 20:23:51 UTC
 <!--END_SECTION:waka-->
 
 
