@@ -129,19 +129,18 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Svelte                   56 mins             ██████████████░░░░░░░░░░░   55.35 % 
-TypeScript               41 mins             ██████████░░░░░░░░░░░░░░░   40.41 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Svelte                   18 mins             █████████████░░░░░░░░░░░░   51.86 % 
+TypeScript               17 mins             ████████████░░░░░░░░░░░░░   48.11 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  1 hr 41 mins        █████████████████████████   100.00 % 
+VS Code                  35 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portonew                 1 hr 41 mins        █████████████████████████   100.00 % 
+portonew                 35 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
+Windows                  35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -161,7 +160,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2025 18:30:23 UTC
+ Last Updated on 27/05/2025 20:24:45 UTC
 <!--END_SECTION:waka-->
 
 
