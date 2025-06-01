@@ -92,7 +92,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 99.1 kB Used in GitHub's Storage 
+> 📦 99.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 10 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -127,21 +129,20 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 hrs 50 mins       ████████████████████████░   95.61 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+TypeScript               2 hrs 44 mins       ████████████████████████░   94.94 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ForumApps                2 hrs 40 mins       ███████████████████████░░   90.31 % 
-portonew                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+ForumApps                2 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -161,7 +162,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2025 16:25:52 UTC
+ Last Updated on 01/06/2025 20:23:29 UTC
 <!--END_SECTION:waka-->
 
 
