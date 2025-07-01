@@ -86,40 +86,40 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 99.6 kB Used in GitHub's Storage 
+> 📦 99.9 kB Used in GitHub's Storage 
  > 
-> 🏆 10 Contributions in the Year 2025
+> 🏆 25 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 22 Public Repositories 
  > 
 > 🔑 26 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-🌆 Daytime                79 commits          ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
-🌃 Evening                125 commits         █████████░░░░░░░░░░░░░░░░   36.55 % 
-🌙 Night                  118 commits         █████████░░░░░░░░░░░░░░░░   34.50 % 
+🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+🌆 Daytime                79 commits          █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+🌃 Evening                125 commits         ████████░░░░░░░░░░░░░░░░░   33.51 % 
+🌙 Night                  149 commits         ██████████░░░░░░░░░░░░░░░   39.95 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   70 commits          █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-Tuesday                  58 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Wednesday                45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Thursday                 96 commits          ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-Friday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Saturday                 37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Sunday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Monday                   70 commits          █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Tuesday                  58 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Wednesday                76 commits          █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Thursday                 96 commits          ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+Friday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Saturday                 37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Sunday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 ```
 
 
@@ -152,11 +152,11 @@ Windows                  4 hrs 20 mins       ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Rust                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-Blade                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+TypeScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Rust                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Blade                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
 
@@ -166,7 +166,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2025 20:25:22 UTC
+ Last Updated on 01/07/2025 22:21:39 UTC
 <!--END_SECTION:waka-->
 
 
