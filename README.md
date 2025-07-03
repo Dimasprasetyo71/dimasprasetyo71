@@ -86,7 +86,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -129,25 +129,25 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               8 hrs 20 mins       ███████████████████░░░░░░   75.00 % 
-YAML                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-MDX                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+TypeScript               9 hrs 16 mins       ███████████████████░░░░░░   74.41 % 
+YAML                     1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+HTML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 6 mins       █████████████████████████   99.86 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+VS Code                  12 hrs 26 mins      █████████████████████████   99.88 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-ForumApps                4 hrs 45 mins       ███████████░░░░░░░░░░░░░░   42.81 % 
-forum_final_apps         3 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   32.16 % 
-forum_final              1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-forum_apps_final_project 1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-blogBackend              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+forum_final_apps         4 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   39.06 % 
+ForumApps                4 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   38.59 % 
+forum_final              1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+forum_apps_final_project 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+blogBackend              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Operating System: 
-Windows                  11 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -167,7 +167,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2025 18:32:11 UTC
+ Last Updated on 03/07/2025 20:24:37 UTC
 <!--END_SECTION:waka-->
 
 
