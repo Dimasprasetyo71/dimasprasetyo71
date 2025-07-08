@@ -129,23 +129,23 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               7 hrs 59 mins       ██████████████████░░░░░░░   72.10 % 
-YAML                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+TypeScript               5 hrs 16 mins       ████████████████░░░░░░░░░   64.93 % 
+YAML                     1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 4 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-forum_final_apps         4 hrs 51 mins       ███████████░░░░░░░░░░░░░░   43.93 % 
-ForumApps                3 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.74 % 
-forum_final              1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-forum_apps_final_project 1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+forum_final_apps         4 hrs 51 mins       ███████████████░░░░░░░░░░   59.95 % 
+forum_final              1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+ForumApps                52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+forum_apps_final_project 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
 
 💻 Operating System: 
-Windows                  11 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -165,7 +165,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2025 16:30:23 UTC
+ Last Updated on 08/07/2025 20:26:17 UTC
 <!--END_SECTION:waka-->
 
 
