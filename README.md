@@ -94,7 +94,7 @@
 
 > 📦 100.5 kB Used in GitHub's Storage 
  > 
-> 🏆 52 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -129,23 +129,21 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               5 hrs 16 mins       ████████████████░░░░░░░░░   64.93 % 
-YAML                     1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+TypeScript               55 mins             █████████████████░░░░░░░░   69.48 % 
+Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-forum_final_apps         4 hrs 51 mins       ███████████████░░░░░░░░░░   59.95 % 
-forum_final              1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-ForumApps                52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-forum_apps_final_project 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+forum_final_apps         1 hr 17 mins        ████████████████████████░   96.42 % 
+ForumApps                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 💻 Operating System: 
-Windows                  8 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -165,7 +163,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2025 16:28:49 UTC
+ Last Updated on 09/07/2025 20:25:53 UTC
 <!--END_SECTION:waka-->
 
 
