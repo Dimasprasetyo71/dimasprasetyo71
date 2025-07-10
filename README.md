@@ -129,21 +129,16 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               55 mins             █████████████████░░░░░░░░   69.48 % 
-Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-forum_final_apps         1 hr 17 mins        ████████████████████████░   96.42 % 
-ForumApps                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -163,7 +158,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2025 16:30:11 UTC
+ Last Updated on 10/07/2025 20:25:55 UTC
 <!--END_SECTION:waka-->
 
 
