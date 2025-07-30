@@ -86,6 +86,8 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-398%20hrs%2044%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
@@ -127,16 +129,24 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 24 mins       ██████████████████████░░░   86.66 % 
+CSS                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 1 min         ██████████████████░░░░░░░   72.71 % 
+Neovim                   45 mins             ███████░░░░░░░░░░░░░░░░░░   27.29 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+kore                     1 hr 56 mins        █████████████████░░░░░░░░   69.88 % 
+Unknown Project          45 mins             ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+forum_final_apps         4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+portonew                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -156,7 +166,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2025 18:36:00 UTC
+ Last Updated on 30/07/2025 20:25:54 UTC
 <!--END_SECTION:waka-->
 
 
