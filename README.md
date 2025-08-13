@@ -129,22 +129,19 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C#                       1 hr 14 mins        ████████████████░░░░░░░░░   64.91 % 
-XML                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Lua                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Go                       6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+C#                       1 hr 14 mins        ███████████████████░░░░░░   75.56 % 
+XML                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+JSON                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+HTTP                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BookLoanApp              1 hr 39 mins        █████████████████████░░░░   85.90 % 
-nvim                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-kore_backend             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+BookLoanApp              1 hr 39 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -164,7 +161,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2025 18:32:53 UTC
+ Last Updated on 13/08/2025 20:26:23 UTC
 <!--END_SECTION:waka-->
 
 
