@@ -94,8 +94,6 @@
 
 > 📦 101.0 kB Used in GitHub's Storage 
  > 
-> 🏆 52 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -129,19 +127,16 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C#                       1 hr 14 mins        ███████████████████░░░░░░   75.56 % 
-XML                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-JSON                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-HTTP                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-BookLoanApp              1 hr 39 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 39 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -161,7 +156,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2025 18:30:19 UTC
+ Last Updated on 19/08/2025 20:25:12 UTC
 <!--END_SECTION:waka-->
 
 
