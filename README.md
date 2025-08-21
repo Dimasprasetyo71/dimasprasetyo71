@@ -86,13 +86,13 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 101.1 kB Used in GitHub's Storage 
+> 📦 101.0 kB Used in GitHub's Storage 
  > 
 > 🏆 52 Contributions in the Year 2025
  > 
@@ -129,16 +129,20 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     16 mins             ██████████████░░░░░░░░░░░   57.76 % 
+Other                    8 mins              ████████░░░░░░░░░░░░░░░░░   31.45 % 
+TOML                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  28 mins             █████████████████████████   98.28 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+forum_backend            28 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  28 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -158,7 +162,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2025 18:31:03 UTC
+ Last Updated on 21/08/2025 20:24:28 UTC
 <!--END_SECTION:waka-->
 
 
