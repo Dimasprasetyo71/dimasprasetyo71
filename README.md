@@ -129,20 +129,22 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Rust                     16 mins             ██████████████░░░░░░░░░░░   57.76 % 
-Other                    8 mins              ████████░░░░░░░░░░░░░░░░░   31.45 % 
-TOML                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TypeScript               1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   31.71 % 
+JSON                     40 mins             █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+Other                    31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+TSConfig                 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Rust                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   98.28 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+VS Code                  3 hrs 18 mins       █████████████████████████   99.75 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🐱‍💻 Projects: 
-forum_backend            28 mins             █████████████████████████   100.00 % 
+01_silk                  2 hrs 50 mins       █████████████████████░░░░   85.65 % 
+forum_backend            28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
 
 💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.00 % 
+Windows                  3 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -162,7 +164,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2025 16:27:54 UTC
+ Last Updated on 26/08/2025 20:24:13 UTC
 <!--END_SECTION:waka-->
 
 
