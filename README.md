@@ -92,7 +92,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 101.1 kB Used in GitHub's Storage 
+> 📦 101.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 52 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -127,22 +129,20 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   35.14 % 
-JSON                     41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-Other                    31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-TSConfig                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Rust                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+TypeScript               1 hr 26 mins        ███████████░░░░░░░░░░░░░░   43.95 % 
+JSON                     41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+TSConfig                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Other                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 31 mins       █████████████████████████   99.77 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+VS Code                  3 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-01_silk                  3 hrs 3 mins        ██████████████████████░░░   86.56 % 
-forum_backend            28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+01_silk                  3 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -162,7 +162,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2025 16:27:56 UTC
+ Last Updated on 28/08/2025 20:24:03 UTC
 <!--END_SECTION:waka-->
 
 
