@@ -129,20 +129,20 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 26 mins        ███████████░░░░░░░░░░░░░░   43.95 % 
-JSON                     41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-TSConfig                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Other                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+TypeScript               23 mins             ██████████████████████░░░   89.37 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  25 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-01_silk                  3 hrs 16 mins       █████████████████████████   100.00 % 
+01_silk                  25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -162,7 +162,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2025 16:27:47 UTC
+ Last Updated on 02/09/2025 20:21:51 UTC
 <!--END_SECTION:waka-->
 
 
