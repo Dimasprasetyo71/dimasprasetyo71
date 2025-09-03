@@ -129,20 +129,18 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               23 mins             ██████████████████████░░░   89.37 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+TypeScript               11 mins             ███████████████████████░░   93.15 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-01_silk                  25 mins             █████████████████████████   100.00 % 
+01_silk                  12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  25 mins             █████████████████████████   100.00 % 
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -162,7 +160,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2025 16:26:55 UTC
+ Last Updated on 03/09/2025 20:23:15 UTC
 <!--END_SECTION:waka-->
 
 
