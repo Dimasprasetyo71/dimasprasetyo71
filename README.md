@@ -92,7 +92,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 101.4 kB Used in GitHub's Storage 
+> 📦 101.3 kB Used in GitHub's Storage 
  > 
 > 🏆 52 Contributions in the Year 2025
  > 
@@ -129,21 +129,17 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   16 mins             ██████████░░░░░░░░░░░░░░░   41.58 % 
-TypeScript               13 mins             █████████░░░░░░░░░░░░░░░░   34.74 % 
-SCSS                     8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Svelte                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   16 mins             █████████████████████████   99.88 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
+VS Code                  16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portonew                 23 mins             ███████████████░░░░░░░░░░   58.36 % 
-01_silk                  16 mins             ██████████░░░░░░░░░░░░░░░   41.64 % 
+01_silk                  16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  40 mins             █████████████████████████   100.00 % 
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -163,7 +159,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2025 16:27:47 UTC
+ Last Updated on 15/09/2025 20:22:53 UTC
 <!--END_SECTION:waka-->
 
 
