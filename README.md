@@ -92,7 +92,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 101.4 kB Used in GitHub's Storage 
+> 📦 101.5 kB Used in GitHub's Storage 
  > 
 > 🏆 52 Contributions in the Year 2025
  > 
@@ -129,16 +129,17 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     21 mins             ███████████████████████░░   92.41 % 
+Java Properties          1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+spring_backend           23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -158,7 +159,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2025 16:23:48 UTC
+ Last Updated on 21/09/2025 20:22:10 UTC
 <!--END_SECTION:waka-->
 
 
