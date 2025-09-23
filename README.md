@@ -86,6 +86,8 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-406%20hrs%204%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -127,17 +129,21 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     21 mins             ███████████████████████░░   92.41 % 
-Java Properties          1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Java                     24 mins             ██████████████████████░░░   86.41 % 
+TypeScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Java Properties          1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+VS Code                  28 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-spring_backend           23 mins             █████████████████████████   100.00 % 
+spring_backend           26 mins             ███████████████████████░░   92.59 % 
+01_silk                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+Windows                  28 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -157,7 +163,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2025 18:31:48 UTC
+ Last Updated on 23/09/2025 20:24:06 UTC
 <!--END_SECTION:waka-->
 
 
