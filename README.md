@@ -119,22 +119,24 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     24 mins             ███████████░░░░░░░░░░░░░░   45.52 % 
-JavaScript               24 mins             ███████████░░░░░░░░░░░░░░   44.48 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Java Properties          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+JavaScript               59 mins             ███████████████░░░░░░░░░░   61.57 % 
+Java                     24 mins             ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 34 mins        ████████████████████████░   97.65 % 
+Neovim                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🐱‍💻 Projects: 
-spring_backend           44 mins             █████████████████████░░░░   83.04 % 
-final-assessment         7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-01_silk                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+spring_backend           44 mins             ████████████░░░░░░░░░░░░░   46.66 % 
+final-assessment         25 mins             ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+APIBookshelf             23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+01_silk                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 💻 Operating System: 
-Windows                  54 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -154,7 +156,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2025 16:27:21 UTC
+ Last Updated on 25/09/2025 20:24:25 UTC
 <!--END_SECTION:waka-->
 
 
