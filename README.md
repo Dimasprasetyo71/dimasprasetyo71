@@ -86,8 +86,6 @@
 
 > 📦 101.5 kB Used in GitHub's Storage 
  > 
-> 🏆 52 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -97,21 +95,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-🌆 Daytime                82 commits          █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-🌃 Evening                143 commits         █████████░░░░░░░░░░░░░░░░   35.66 % 
-🌙 Night                  156 commits         ██████████░░░░░░░░░░░░░░░   38.90 % 
+🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+🌆 Daytime                84 commits          █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+🌃 Evening                143 commits         █████████░░░░░░░░░░░░░░░░   35.48 % 
+🌙 Night                  156 commits         ██████████░░░░░░░░░░░░░░░   38.71 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   70 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Tuesday                  59 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Wednesday                96 commits          ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-Thursday                 103 commits         ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-Friday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-Saturday                 37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Sunday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Monday                   70 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Tuesday                  59 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Wednesday                96 commits          ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+Thursday                 105 commits         ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+Friday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Saturday                 37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Sunday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 ```
 
 
@@ -156,7 +154,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2025 08:29:04 UTC
+ Last Updated on 25/09/2025 10:23:26 UTC
 <!--END_SECTION:waka-->
 
 
