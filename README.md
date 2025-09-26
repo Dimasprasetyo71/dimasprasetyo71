@@ -78,7 +78,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -119,24 +119,25 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               59 mins             ███████████████░░░░░░░░░░   61.57 % 
-Java                     24 mins             ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+JavaScript               1 hr 17 mins        ████████████░░░░░░░░░░░░░   49.39 % 
+Java                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+HTML                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+CSS                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 
 🔥 Editors: 
-VS Code                  1 hr 34 mins        ████████████████████████░   97.65 % 
-Neovim                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+VS Code                  2 hrs 33 mins       █████████████████████████   98.55 % 
+Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🐱‍💻 Projects: 
-spring_backend           44 mins             ████████████░░░░░░░░░░░░░   46.66 % 
-final-assessment         25 mins             ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-APIBookshelf             23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-01_silk                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+spring_backend           44 mins             ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+tugas_website_dicoding   31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+APIBookshelf             28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+final-assessment         25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+bookshelf-app-starter-pro24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
 
 💻 Operating System: 
-Windows                  1 hr 36 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -156,7 +157,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2025 18:28:59 UTC
+ Last Updated on 26/09/2025 20:22:52 UTC
 <!--END_SECTION:waka-->
 
 
