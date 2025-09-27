@@ -119,25 +119,25 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               1 hr 17 mins        ████████████░░░░░░░░░░░░░   49.39 % 
-Java                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-HTML                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-CSS                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+JavaScript               1 hr 17 mins        ████████████░░░░░░░░░░░░░   49.03 % 
+Java                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+HTML                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+CSS                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 33 mins       █████████████████████████   98.55 % 
-Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+VS Code                  2 hrs 33 mins       ████████████████████████░   97.82 % 
+Neovim                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🐱‍💻 Projects: 
-spring_backend           44 mins             ███████░░░░░░░░░░░░░░░░░░   28.77 % 
-tugas_website_dicoding   31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-APIBookshelf             28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-final-assessment         25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-bookshelf-app-starter-pro24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+spring_backend           44 mins             ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+tugas_website_dicoding   31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+APIBookshelf             28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+final-assessment         25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+bookshelf-app-starter-pro24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
 
 💻 Operating System: 
-Windows                  2 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -157,7 +157,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2025 16:23:54 UTC
+ Last Updated on 27/09/2025 20:21:12 UTC
 <!--END_SECTION:waka-->
 
 
