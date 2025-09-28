@@ -92,6 +92,54 @@
  > 
 > 🔑 27 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+🌆 Daytime                84 commits          █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+🌃 Evening                143 commits         █████████░░░░░░░░░░░░░░░░   35.48 % 
+🌙 Night                  156 commits         ██████████░░░░░░░░░░░░░░░   38.71 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   70 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Tuesday                  59 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Wednesday                96 commits          ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+Thursday                 105 commits         ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+Friday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Saturday                 37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Sunday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+JavaScript               1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   37.67 % 
+TypeScript               1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   32.07 % 
+CSS                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+HTML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 2 mins        ██████████████████████░░░   89.13 % 
+Neovim                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+
+🐱‍💻 Projects: 
+01_silk                  1 hr 12 mins        █████████░░░░░░░░░░░░░░░░   35.25 % 
+tugas_website_dicoding   31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+APIBookshelf             28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+final-assessment         25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+bookshelf-app-starter-pro24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+
+💻 Operating System: 
+Windows                  3 hrs 24 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -109,7 +157,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 20:21:29 UTC
+ Last Updated on 28/09/2025 22:19:03 UTC
 <!--END_SECTION:waka-->
 
 
