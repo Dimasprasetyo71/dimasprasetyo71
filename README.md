@@ -78,6 +78,8 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2023%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
@@ -90,54 +92,6 @@
  > 
 > 🔑 27 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-🌆 Daytime                84 commits          █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-🌃 Evening                143 commits         █████████░░░░░░░░░░░░░░░░   35.48 % 
-🌙 Night                  156 commits         ██████████░░░░░░░░░░░░░░░   38.71 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   70 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Tuesday                  59 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Wednesday                96 commits          ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-Thursday                 105 commits         ███████░░░░░░░░░░░░░░░░░░   26.05 % 
-Friday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Saturday                 37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Sunday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-JavaScript               1 hr 17 mins        ████████████░░░░░░░░░░░░░   49.03 % 
-Java                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-HTML                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-CSS                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 33 mins       ████████████████████████░   97.82 % 
-Neovim                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-
-🐱‍💻 Projects: 
-spring_backend           44 mins             ███████░░░░░░░░░░░░░░░░░░   28.55 % 
-tugas_website_dicoding   31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-APIBookshelf             28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-final-assessment         25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-bookshelf-app-starter-pro24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-
-💻 Operating System: 
-Windows                  2 hrs 37 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -155,7 +109,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 18:27:16 UTC
+ Last Updated on 28/09/2025 20:21:29 UTC
 <!--END_SECTION:waka-->
 
 
