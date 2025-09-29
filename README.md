@@ -84,7 +84,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 101.6 kB Used in GitHub's Storage 
+> 📦 101.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -119,25 +119,25 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   37.67 % 
-TypeScript               1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   32.07 % 
-CSS                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-HTML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+JavaScript               1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   37.24 % 
+TypeScript               1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   31.94 % 
+CSS                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+HTML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 2 mins        ██████████████████████░░░   89.13 % 
-Neovim                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+VS Code                  3 hrs 2 mins        ██████████████████████░░░   88.10 % 
+Neovim                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
 
 🐱‍💻 Projects: 
-01_silk                  1 hr 12 mins        █████████░░░░░░░░░░░░░░░░   35.25 % 
-tugas_website_dicoding   31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-APIBookshelf             28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-final-assessment         25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-bookshelf-app-starter-pro24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+01_silk                  1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   35.99 % 
+tugas_website_dicoding   31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+APIBookshelf             28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+final-assessment         25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+bookshelf-app-starter-pro24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
 
 💻 Operating System: 
-Windows                  3 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -157,7 +157,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2025 16:22:38 UTC
+ Last Updated on 29/09/2025 20:21:28 UTC
 <!--END_SECTION:waka-->
 
 
