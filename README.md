@@ -78,7 +78,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -121,25 +121,25 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   37.24 % 
-TypeScript               1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   31.94 % 
-CSS                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-HTML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+JavaScript               1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   31.20 % 
+TypeScript               1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+Python                   39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+CSS                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+HTML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 2 mins        ██████████████████████░░░   88.10 % 
-Neovim                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+VS Code                  3 hrs               ██████████████████░░░░░░░   73.13 % 
+Neovim                   1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   26.87 % 
 
 🐱‍💻 Projects: 
-01_silk                  1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   35.99 % 
-tugas_website_dicoding   31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-APIBookshelf             28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-final-assessment         25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-bookshelf-app-starter-pro24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+01_silk                  1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+tugas_website_dicoding   31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+APIBookshelf             28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+final-assessment         25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+bookshelf-app-starter-pro24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
 
 💻 Operating System: 
-Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -159,7 +159,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2025 18:28:55 UTC
+ Last Updated on 30/09/2025 20:23:55 UTC
 <!--END_SECTION:waka-->
 
 
