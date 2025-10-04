@@ -121,25 +121,25 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     6 hrs 2 mins        ███████████████░░░░░░░░░░   61.79 % 
-Python                   1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-TypeScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Lua                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Java                     6 hrs 2 mins        ███████████████░░░░░░░░░░   61.91 % 
+Python                   1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+TypeScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Lua                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 28 mins       ███████████████████░░░░░░   76.57 % 
-VS Code                  2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+Neovim                   7 hrs 27 mins       ███████████████████░░░░░░   76.53 % 
+VS Code                  2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
 
 🐱‍💻 Projects: 
-Documents                7 hrs 31 mins       ███████████████████░░░░░░   77.04 % 
-01_silk                  1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-nvim                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Unknown Project          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Documents                7 hrs 31 mins       ███████████████████░░░░░░   77.19 % 
+01_silk                  1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+nvim                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Unknown Project          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 spring_backend           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 💻 Operating System: 
-Windows                  9 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -159,7 +159,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2025 18:27:38 UTC
+ Last Updated on 04/10/2025 20:21:24 UTC
 <!--END_SECTION:waka-->
 
 
