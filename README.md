@@ -121,24 +121,23 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   4 hrs 44 mins       ███████████░░░░░░░░░░░░░░   45.19 % 
-Java                     3 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   32.67 % 
-JSON                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Assembly                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Python                   4 hrs 44 mins       ███████████░░░░░░░░░░░░░░   42.57 % 
+Java                     3 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   30.78 % 
+JSON                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+PHP                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 25 mins       ████████████████████░░░░░   80.33 % 
-Neovim                   2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+VS Code                  9 hrs 36 mins       ██████████████████████░░░   86.22 % 
+Neovim                   1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
 
 🐱‍💻 Projects: 
-Documents                9 hrs 53 mins       ████████████████████████░   94.26 % 
-belajarAsm_gabut         36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Documents                11 hrs 8 mins       █████████████████████████   99.98 % 
 botfirefly               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  10 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -158,7 +157,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2025 16:23:43 UTC
+ Last Updated on 12/10/2025 20:22:08 UTC
 <!--END_SECTION:waka-->
 
 
