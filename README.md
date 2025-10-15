@@ -78,6 +78,8 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-429%20hrs%2042%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
@@ -119,22 +121,22 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     3 hrs 27 mins       ████████████░░░░░░░░░░░░░   49.90 % 
-Python                   1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-JSON                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-PHP                      43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Java                     3 hrs 23 mins       ████████████░░░░░░░░░░░░░   49.43 % 
+Python                   1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+JSON                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+PHP                      43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 33 mins       ████████████████████░░░░░   80.14 % 
-Neovim                   1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+VS Code                  5 hrs 33 mins       ████████████████████░░░░░   80.90 % 
+Neovim                   1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
 
 🐱‍💻 Projects: 
-Documents                6 hrs 55 mins       █████████████████████████   99.99 % 
+Documents                6 hrs 51 mins       █████████████████████████   99.99 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  6 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -154,7 +156,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2025 18:32:59 UTC
+ Last Updated on 15/10/2025 20:25:22 UTC
 <!--END_SECTION:waka-->
 
 
