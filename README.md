@@ -121,23 +121,23 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     2 hrs 2 mins        ███████████████░░░░░░░░░░   59.16 % 
-Lua                      36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-C++                      24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-TypeScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Java                     1 hr 59 mins        ███████████████░░░░░░░░░░   61.34 % 
+Lua                      33 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+C++                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+TypeScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 12 mins       ████████████████░░░░░░░░░   64.22 % 
-VS Code                  1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   35.78 % 
+Neovim                   2 hrs 12 mins       █████████████████░░░░░░░░   67.62 % 
+VS Code                  1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   32.38 % 
 
 🐱‍💻 Projects: 
-Documents                2 hrs 34 mins       ███████████████████░░░░░░   74.65 % 
-nvim                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-01_silk                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Documents                2 hrs 25 mins       ███████████████████░░░░░░   74.45 % 
+nvim                     33 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+01_silk                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
 
 💻 Operating System: 
-Windows                  3 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -157,7 +157,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2025 16:25:24 UTC
+ Last Updated on 26/10/2025 20:23:41 UTC
 <!--END_SECTION:waka-->
 
 
