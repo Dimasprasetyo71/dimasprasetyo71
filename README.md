@@ -121,25 +121,25 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   33.05 % 
-Java                     1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
-C++                      46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-JavaScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Lua                      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+TypeScript               3 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   40.38 % 
+Java                     1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+JavaScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+C++                      46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Lua                      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 33 mins       █████████████████░░░░░░░░   69.47 % 
-Neovim                   2 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   30.53 % 
+VS Code                  6 hrs 39 mins       ██████████████████░░░░░░░   73.15 % 
+Neovim                   2 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.85 % 
 
 🐱‍💻 Projects: 
-Documents                5 hrs 1 min         ████████████████░░░░░░░░░   62.78 % 
-tmp-check                1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-nvim                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-finance-app-backend      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-finance-backend          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Documents                6 hrs 3 mins        █████████████████░░░░░░░░   66.52 % 
+tmp-check                1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+nvim                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+finance-app-backend      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+finance-backend          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 💻 Operating System: 
-Windows                  8 hrs               █████████████████████████   100.00 % 
+Windows                  9 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -159,7 +159,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2025 16:30:55 UTC
+ Last Updated on 28/10/2025 20:26:26 UTC
 <!--END_SECTION:waka-->
 
 
