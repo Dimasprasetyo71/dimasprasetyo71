@@ -84,7 +84,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 102.0 kB Used in GitHub's Storage 
+> 📦 101.9 kB Used in GitHub's Storage 
  > 
 > 🏆 54 Contributions in the Year 2025
  > 
@@ -121,25 +121,25 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               3 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   36.80 % 
-Java                     3 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   33.63 % 
-JavaScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-C++                      44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+TypeScript               3 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   31.50 % 
+Java                     3 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+Python                   1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+JavaScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+C++                      44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 39 mins       ███████████████████████░░   93.29 % 
-Neovim                   37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+VS Code                  10 hrs 11 mins      ███████████████████████░░   93.92 % 
+Neovim                   39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
 
 🐱‍💻 Projects: 
-Documents                7 hrs 3 mins        ███████████████████░░░░░░   75.97 % 
-tmp-check                1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-finance-app-backend      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-finance-backend          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-finance-frontend         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Documents                8 hrs 36 mins       ████████████████████░░░░░   79.37 % 
+tmp-check                1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+finance-app-backend      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+finance-backend          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+finance-frontend         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-Windows                  9 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -159,7 +159,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2025 16:29:01 UTC
+ Last Updated on 31/10/2025 18:32:28 UTC
 <!--END_SECTION:waka-->
 
 
