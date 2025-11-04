@@ -78,7 +78,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -121,23 +121,23 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     3 hrs 13 mins       ████████████░░░░░░░░░░░░░   46.39 % 
-Python                   1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   28.14 % 
-TypeScript               1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-C++                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Java                     3 hrs 13 mins       █████████████░░░░░░░░░░░░   53.57 % 
+Python                   2 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   35.51 % 
+C++                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 47 mins       █████████████████████░░░░   83.37 % 
-Neovim                   1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+VS Code                  4 hrs 51 mins       ████████████████████░░░░░   80.80 % 
+Neovim                   1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
 
 🐱‍💻 Projects: 
-Documents                6 hrs 50 mins       █████████████████████████   98.49 % 
-finance-backend          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-pertemuan5               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Documents                5 hrs 54 mins       █████████████████████████   98.06 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+pertemuan5               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Windows                  6 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -157,7 +157,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 04/11/2025 16:28:30 UTC
+ Last Updated on 04/11/2025 20:26:26 UTC
 <!--END_SECTION:waka-->
 
 
