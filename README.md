@@ -78,7 +78,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -157,7 +157,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2025 22:21:18 UTC
+ Last Updated on 06/11/2025 01:47:12 UTC
 <!--END_SECTION:waka-->
 
 
