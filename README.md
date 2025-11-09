@@ -84,7 +84,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 102.0 kB Used in GitHub's Storage 
+> 📦 102.1 kB Used in GitHub's Storage 
  > 
 > 🏆 54 Contributions in the Year 2025
  > 
@@ -121,22 +121,22 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     3 hrs 22 mins       ███████████████████░░░░░░   77.43 % 
-Python                   50 mins             █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-C++                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Java                     3 hrs 22 mins       ███████████████████████░░   93.21 % 
+Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 45 mins       ████████████████░░░░░░░░░   63.35 % 
-Neovim                   1 hr 36 mins        █████████░░░░░░░░░░░░░░░░   36.65 % 
+VS Code                  2 hrs 45 mins       ███████████████████░░░░░░   76.27 % 
+Neovim                   51 mins             ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
 
 🐱‍💻 Projects: 
-Documents                4 hrs 16 mins       ████████████████████████░   97.83 % 
-Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Documents                3 hrs 31 mins       ████████████████████████░   97.39 % 
+Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 💻 Operating System: 
-Windows                  4 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -156,7 +156,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2025 16:24:46 UTC
+ Last Updated on 09/11/2025 20:22:42 UTC
 <!--END_SECTION:waka-->
 
 
