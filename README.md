@@ -78,7 +78,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-457%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -121,21 +121,21 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      1 hr 50 mins        █████████████░░░░░░░░░░░░   50.80 % 
-Go                       1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   29.40 % 
-Java                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Blade Template           5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+PHP                      1 hr 36 mins        ████████████░░░░░░░░░░░░░   49.07 % 
+Go                       1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   32.43 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Java                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Blade Template           5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 31 mins       █████████████████░░░░░░░░   69.64 % 
-Neovim                   1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   30.36 % 
+VS Code                  2 hrs 11 mins       █████████████████░░░░░░░░   66.51 % 
+Neovim                   1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   33.49 % 
 
 🐱‍💻 Projects: 
-Documents                3 hrs 37 mins       █████████████████████████   100.00 % 
+Documents                3 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -155,7 +155,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2025 16:31:58 UTC
+ Last Updated on 18/11/2025 20:27:47 UTC
 <!--END_SECTION:waka-->
 
 
