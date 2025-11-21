@@ -121,15 +121,15 @@ Sunday                   17 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      4 hrs 33 mins       ██████████████████░░░░░░░   72.04 % 
-Go                       1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+PHP                      4 hrs 33 mins       ██████████████████░░░░░░░   72.11 % 
+Go                       1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
 Bash                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 Blade Template           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 44 mins       ███████████████████████░░   90.80 % 
-Neovim                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+VS Code                  5 hrs 44 mins       ███████████████████████░░   90.90 % 
+Neovim                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
 
 🐱‍💻 Projects: 
 Documents                6 hrs 19 mins       █████████████████████████   100.00 % 
@@ -155,7 +155,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2025 18:30:17 UTC
+ Last Updated on 21/11/2025 20:26:14 UTC
 <!--END_SECTION:waka-->
 
 
