@@ -36,25 +36,40 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2043%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+**🐱 My GitHub Data** 
+
+> 📦 102.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 57 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 27 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-🌆 Daytime                84 commits          █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-🌃 Evening                143 commits         █████████░░░░░░░░░░░░░░░░   35.48 % 
-🌙 Night                  156 commits         ██████████░░░░░░░░░░░░░░░   38.71 % 
+🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+🌆 Daytime                84 commits          █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+🌃 Evening                146 commits         █████████░░░░░░░░░░░░░░░░   35.96 % 
+🌙 Night                  156 commits         ██████████░░░░░░░░░░░░░░░   38.42 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   70 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Tuesday                  59 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Wednesday                96 commits          ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-Thursday                 105 commits         ███████░░░░░░░░░░░░░░░░░░   26.05 % 
-Friday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Saturday                 37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Sunday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Monday                   70 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Tuesday                  59 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Wednesday                96 commits          ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+Thursday                 105 commits         ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+Friday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Saturday                 37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Sunday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 ```
 
 
@@ -97,8 +112,10 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 **Timeline**
 
+![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
- Last Updated on 23/11/2025 14:19:22 UTC
+
+ Last Updated on 23/11/2025 16:26:27 UTC
 <!--END_SECTION:waka-->
 
 
