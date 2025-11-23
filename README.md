@@ -10,16 +10,11 @@
 
 
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/dimasprasetyo71/count.svg" alt="Visitor's Count" />
-</div>
+
 
 ## 🛠️ Languages and Tools
 
 <br>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/clessss?theme=catppuccinMocha&font=Purple%20Purse&ext=activity)
 
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
@@ -43,23 +38,8 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 102.2 kB Used in GitHub's Storage 
- > 
-> 🏆 54 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 27 Private Repositories 
- > 
-**I'm a Night 🦉** 
 
 ```text
 🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
@@ -118,8 +98,6 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 **Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
  Last Updated on 23/11/2025 14:19:22 UTC
