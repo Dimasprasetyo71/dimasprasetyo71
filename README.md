@@ -36,7 +36,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-468%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -79,24 +79,24 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     4 hrs 52 mins       █████████████████░░░░░░░░   68.69 % 
-Fortran                  50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-PHP                      45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-PowerShell               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Lua                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Java                     4 hrs 52 mins       ███████████████░░░░░░░░░░   61.84 % 
+PHP                      1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Fortran                  50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Blade Template           22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+PowerShell               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 27 mins       ███████████████████░░░░░░   76.93 % 
-Neovim                   1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+VS Code                  6 hrs 14 mins       ████████████████████░░░░░   79.24 % 
+Neovim                   1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
 
 🐱‍💻 Projects: 
-Documents                6 hrs 54 mins       ████████████████████████░   97.40 % 
-nvim                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Documents                7 hrs 42 mins       ████████████████████████░   97.66 % 
+nvim                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 reporting-mahasiswa      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  7 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  7 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -116,7 +116,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 28/11/2025 18:32:03 UTC
+ Last Updated on 28/11/2025 20:25:25 UTC
 <!--END_SECTION:waka-->
 
 
