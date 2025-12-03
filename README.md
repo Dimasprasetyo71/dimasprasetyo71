@@ -36,7 +36,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -79,23 +79,23 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     4 hrs 43 mins       █████████████████░░░░░░░░   67.66 % 
-PHP                      1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Fortran                  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-Blade Template           22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Java                     4 hrs 18 mins       ████████████░░░░░░░░░░░░░   48.05 % 
+PHP                      2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+Blade Template           1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 50 mins       █████████████████████░░░░   83.68 % 
-Neovim                   1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+VS Code                  8 hrs 12 mins       ███████████████████████░░   91.55 % 
+Neovim                   45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 
 🐱‍💻 Projects: 
-Documents                6 hrs 58 mins       █████████████████████████   99.67 % 
-nvim                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-reporting-mahasiswa      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Documents                8 hrs 53 mins       █████████████████████████   99.10 % 
+reporting-mahasiswa      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+nvim                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Windows                  6 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,7 +115,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 03/12/2025 16:34:00 UTC
+ Last Updated on 03/12/2025 20:32:16 UTC
 <!--END_SECTION:waka-->
 
 
