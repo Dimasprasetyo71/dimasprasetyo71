@@ -79,22 +79,22 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      4 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   39.41 % 
-Blade Template           3 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-Python                   2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+PHP                      7 hrs 10 mins       ███████████░░░░░░░░░░░░░░   44.19 % 
+Blade Template           5 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   31.15 % 
+Python                   2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 17 mins      ████████████████████████░   95.28 % 
-Neovim                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+VS Code                  15 hrs 43 mins      ████████████████████████░   96.86 % 
+Neovim                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🐱‍💻 Projects: 
-Documents                10 hrs 45 mins      █████████████████████████   99.46 % 
-reporting-mahasiswa      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Documents                16 hrs 10 mins      █████████████████████████   99.64 % 
+reporting-mahasiswa      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Windows                  10 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -114,7 +114,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2025 16:30:40 UTC
+ Last Updated on 05/12/2025 20:27:18 UTC
 <!--END_SECTION:waka-->
 
 
