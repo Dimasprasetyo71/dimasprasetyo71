@@ -79,22 +79,22 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      7 hrs 10 mins       ███████████░░░░░░░░░░░░░░   44.19 % 
-Blade Template           5 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   31.15 % 
-Python                   2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+PHP                      7 hrs 10 mins       ███████████░░░░░░░░░░░░░░   44.72 % 
+Blade Template           5 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   31.52 % 
+Python                   2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 43 mins      ████████████████████████░   96.86 % 
-Neovim                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+VS Code                  15 hrs 32 mins      ████████████████████████░   96.82 % 
+Neovim                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🐱‍💻 Projects: 
-Documents                16 hrs 10 mins      █████████████████████████   99.64 % 
+Documents                15 hrs 59 mins      █████████████████████████   99.64 % 
 reporting-mahasiswa      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Windows                  16 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -114,7 +114,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2025 18:30:56 UTC
+ Last Updated on 06/12/2025 20:24:07 UTC
 <!--END_SECTION:waka-->
 
 
