@@ -36,7 +36,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -79,22 +79,22 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      7 hrs 10 mins       ███████████░░░░░░░░░░░░░░   44.95 % 
-Blade Template           5 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   31.70 % 
-Python                   2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+PHP                      7 hrs 10 mins       ███████████░░░░░░░░░░░░░░   44.18 % 
+Blade Template           5 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   31.16 % 
+Python                   2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 32 mins      ████████████████████████░   97.35 % 
-Neovim                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+VS Code                  15 hrs 48 mins      ████████████████████████░   97.39 % 
+Neovim                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🐱‍💻 Projects: 
-Documents                15 hrs 54 mins      █████████████████████████   99.64 % 
+Documents                16 hrs 10 mins      █████████████████████████   99.64 % 
 reporting-mahasiswa      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Windows                  15 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -114,7 +114,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 09/12/2025 18:32:16 UTC
+ Last Updated on 09/12/2025 20:24:46 UTC
 <!--END_SECTION:waka-->
 
 
