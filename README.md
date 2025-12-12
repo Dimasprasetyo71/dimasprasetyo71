@@ -79,20 +79,18 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      3 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   36.99 % 
-Blade Template           2 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.06 % 
-Python                   1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-Markdown                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Python                   1 hr 53 mins        ████████████████░░░░░░░░░   63.13 % 
+Markdown                 1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   35.29 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Documents                8 hrs 33 mins       █████████████████████████   100.00 % 
+Documents                3 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -112,7 +110,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 12/12/2025 16:30:00 UTC
+ Last Updated on 12/12/2025 20:27:27 UTC
 <!--END_SECTION:waka-->
 
 
