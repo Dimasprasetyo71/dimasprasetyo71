@@ -79,18 +79,22 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   1 hr 53 mins        ████████████████░░░░░░░░░   63.13 % 
-Markdown                 1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   35.29 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Python                   3 hrs 9 mins        █████████████████░░░░░░░░   66.21 % 
+Markdown                 1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+PHP                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Assembly                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-VS Code                  3 hrs               █████████████████████████   100.00 % 
+VS Code                  4 hrs 40 mins       ████████████████████████░   97.99 % 
+Neovim                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🐱‍💻 Projects: 
-Documents                3 hrs               █████████████████████████   100.00 % 
+Documents                4 hrs 42 mins       █████████████████████████   98.52 % 
+belajarAsm_gabut         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 💻 Operating System: 
-Windows                  3 hrs               █████████████████████████   100.00 % 
+Windows                  4 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -110,7 +114,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 13/12/2025 16:28:27 UTC
+ Last Updated on 13/12/2025 20:24:34 UTC
 <!--END_SECTION:waka-->
 
 
