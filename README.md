@@ -79,22 +79,21 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   8 hrs 57 mins       ███████████████████████░░   92.22 % 
-PHP                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-Java                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Assembly                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Python                   8 hrs 16 mins       ████████████████████████░   97.02 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Java                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+PHP                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 37 mins       █████████████████████████   99.01 % 
-Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+VS Code                  8 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Documents                9 hrs 38 mins       █████████████████████████   99.19 % 
-belajarAsm_gabut         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Documents                8 hrs 30 mins       █████████████████████████   99.90 % 
+belajarAsm_gabut         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Windows                  9 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -114,7 +113,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2025 16:27:41 UTC
+ Last Updated on 20/12/2025 20:24:20 UTC
 <!--END_SECTION:waka-->
 
 
