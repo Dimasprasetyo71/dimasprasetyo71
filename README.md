@@ -36,6 +36,8 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2032%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -50,6 +52,49 @@
  > 
 > 🔑 27 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+🌆 Daytime                84 commits          █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+🌃 Evening                146 commits         █████████░░░░░░░░░░░░░░░░   35.96 % 
+🌙 Night                  156 commits         ██████████░░░░░░░░░░░░░░░   38.42 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   70 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Tuesday                  59 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Wednesday                96 commits          ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+Thursday                 105 commits         ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+Friday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Saturday                 37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Sunday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Blade Template           3 hrs 59 mins       ██████████████░░░░░░░░░░░   57.60 % 
+PHP                      2 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   40.66 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 55 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Documents                6 hrs 55 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  6 hrs 55 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -67,7 +112,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 12:46:06 UTC
+ Last Updated on 03/01/2026 14:22:14 UTC
 <!--END_SECTION:waka-->
 
 
