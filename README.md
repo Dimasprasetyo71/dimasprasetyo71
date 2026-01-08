@@ -38,7 +38,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-515%20hrs%2033%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -79,21 +79,21 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 hrs 5 mins        ███████████████░░░░░░░░░░   58.25 % 
-Blade Template           26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-PHP                      24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+TypeScript               2 hrs 5 mins        █████████████████░░░░░░░░   66.59 % 
+PHP                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Documents                3 hrs 29 mins       ████████████████████████░   97.10 % 
-redwin                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Documents                3 hrs 2 mins        ████████████████████████░   96.68 % 
+redwin                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 💻 Operating System: 
-Windows                  3 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -113,7 +113,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2026 16:34:54 UTC
+ Last Updated on 08/01/2026 20:29:30 UTC
 <!--END_SECTION:waka-->
 
 
