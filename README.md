@@ -79,22 +79,21 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Blade Template           37 mins             █████████░░░░░░░░░░░░░░░░   34.19 % 
-PHP                      24 mins             ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-Bash                     23 mins             █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Git                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Blade Template           37 mins             ██████████░░░░░░░░░░░░░░░   41.26 % 
+PHP                      24 mins             ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+Bash                     17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+Git                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-laravel-vercel-project   1 hr 43 mins        ████████████████████████░   94.83 % 
-Documents                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+laravel-vercel-project   1 hr 30 mins        █████████████████████████   99.54 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 30 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -114,7 +113,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2026 17:02:04 UTC
+ Last Updated on 23/02/2026 20:48:39 UTC
 <!--END_SECTION:waka-->
 
 
