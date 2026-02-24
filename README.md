@@ -79,21 +79,16 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Blade Template           37 mins             ██████████░░░░░░░░░░░░░░░   41.26 % 
-PHP                      24 mins             ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-Bash                     17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Git                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-laravel-vercel-project   1 hr 30 mins        █████████████████████████   99.54 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 30 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -113,7 +108,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2026 17:09:11 UTC
+ Last Updated on 24/02/2026 20:39:57 UTC
 <!--END_SECTION:waka-->
 
 
