@@ -36,13 +36,13 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-518%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 103.6 kB Used in GitHub's Storage 
+> 📦 103.5 kB Used in GitHub's Storage 
  > 
 > 🏆 14 Contributions in the Year 2026
  > 
@@ -79,16 +79,20 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               26 mins             █████████████████░░░░░░░░   67.09 % 
+Vue.js                   9 mins              ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  39 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Documents                39 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  39 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -108,7 +112,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2026 18:55:00 UTC
+ Last Updated on 02/03/2026 20:41:41 UTC
 <!--END_SECTION:waka-->
 
 
