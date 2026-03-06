@@ -79,20 +79,21 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   29 mins             ██████████░░░░░░░░░░░░░░░   40.31 % 
-TypeScript               26 mins             █████████░░░░░░░░░░░░░░░░   35.86 % 
-Vue.js                   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Markdown                 56 mins             ███████████░░░░░░░░░░░░░░   43.33 % 
+Python                   29 mins             ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+TypeScript               26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+Vue.js                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 14 mins        ██████████████░░░░░░░░░░░   56.76 % 
+Neovim                   56 mins             ███████████░░░░░░░░░░░░░░   43.24 % 
 
 🐱‍💻 Projects: 
-Documents                1 hr 14 mins        █████████████████████████   100.00 % 
+Documents                2 hrs 10 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -112,7 +113,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2026 16:46:51 UTC
+ Last Updated on 06/03/2026 20:36:31 UTC
 <!--END_SECTION:waka-->
 
 
