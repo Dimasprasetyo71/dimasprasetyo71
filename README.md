@@ -79,18 +79,16 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Bash                     0 secs              ██████████████░░░░░░░░░░░   54.85 % 
-TypeScript               0 secs              █████████░░░░░░░░░░░░░░░░   36.51 % 
-Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-porto                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -110,7 +108,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 16/03/2026 17:05:29 UTC
+ Last Updated on 16/03/2026 20:42:19 UTC
 <!--END_SECTION:waka-->
 
 
