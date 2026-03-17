@@ -36,7 +36,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-519%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-521%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -79,16 +79,20 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 5 mins         ████████████████░░░░░░░░░   65.65 % 
+CSS                      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Documents                1 hr 39 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -108,7 +112,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 17/03/2026 17:06:02 UTC
+ Last Updated on 17/03/2026 20:42:50 UTC
 <!--END_SECTION:waka-->
 
 
