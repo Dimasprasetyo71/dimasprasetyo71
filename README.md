@@ -36,7 +36,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-523%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-525%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -79,23 +79,23 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 8 mins         █████████████░░░░░░░░░░░░   50.39 % 
-Bash                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-JSON                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Prisma                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-TSConfig                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+TypeScript               1 hr 35 mins        ███████████░░░░░░░░░░░░░░   43.44 % 
+Prisma                   1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   29.75 % 
+Bash                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+TSConfig                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Documents                2 hrs 10 mins       ████████████████████████░   95.41 % 
-01_silk                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-barbershop               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-IA17                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Documents                3 hrs 33 mins       ████████████████████████░   97.02 % 
+barbershop               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+01_silk                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+IA17                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  2 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,7 +115,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2026 17:07:43 UTC
+ Last Updated on 25/03/2026 20:42:34 UTC
 <!--END_SECTION:waka-->
 
 
