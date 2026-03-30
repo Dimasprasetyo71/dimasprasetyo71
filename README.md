@@ -79,22 +79,22 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 hrs 38 mins       ██████████████░░░░░░░░░░░   56.90 % 
-Prisma                   1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   26.93 % 
-Bash                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+TypeScript               3 hrs 19 mins       ███████████████░░░░░░░░░░   61.77 % 
+Prisma                   1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+Bash                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Documents                4 hrs 29 mins       ████████████████████████░   97.01 % 
-barbershop               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Documents                5 hrs 2 mins        ███████████████████████░░   93.77 % 
+barbershop               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 01_silk                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 💻 Operating System: 
-Windows                  4 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -114,7 +114,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 30/03/2026 16:59:56 UTC
+ Last Updated on 30/03/2026 20:51:18 UTC
 <!--END_SECTION:waka-->
 
 
