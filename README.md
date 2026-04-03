@@ -79,22 +79,22 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 hrs 17 mins       ███████████████████████░░   93.63 % 
-Prisma                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+TypeScript               1 hr 5 mins         ████████████████████████░   94.22 % 
+Prisma                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Documents                2 hrs 14 mins       ███████████████████████░░   91.65 % 
-barbershop               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-01_silk                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Documents                57 mins             █████████████████████░░░░   82.98 % 
+barbershop               11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+01_silk                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 💻 Operating System: 
-Windows                  2 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -114,7 +114,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 03/04/2026 16:44:27 UTC
+ Last Updated on 03/04/2026 20:40:48 UTC
 <!--END_SECTION:waka-->
 
 
