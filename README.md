@@ -36,7 +36,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-531%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue?style=flat)
 
@@ -79,20 +79,20 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 32 mins        ██████████████████░░░░░░░   72.15 % 
-CSS                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Text                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+TypeScript               1 hr 38 mins        ████████████████░░░░░░░░░   63.68 % 
+CSS                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Prisma                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Text                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Documents                2 hrs 8 mins        █████████████████████████   100.00 % 
+Documents                2 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -112,7 +112,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2026 17:06:41 UTC
+ Last Updated on 13/04/2026 20:58:32 UTC
 <!--END_SECTION:waka-->
 
 
