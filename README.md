@@ -79,20 +79,20 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 38 mins        ████████████████░░░░░░░░░   63.68 % 
-CSS                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Prisma                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Text                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+TypeScript               1 hr                ████████████████░░░░░░░░░   63.77 % 
+Prisma                   19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+TSConfig                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Documents                2 hrs 35 mins       █████████████████████████   100.00 % 
+Documents                1 hr 35 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -112,7 +112,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2026 17:14:29 UTC
+ Last Updated on 14/04/2026 20:58:35 UTC
 <!--END_SECTION:waka-->
 
 
