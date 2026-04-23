@@ -36,7 +36,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-538%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -79,21 +79,21 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 7 mins         ██████████████░░░░░░░░░░░   56.54 % 
-Python                   20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-JSON                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Bash                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+TypeScript               4 hrs 10 mins       ██████████████░░░░░░░░░░░   56.01 % 
+Java                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+MDX                      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🔥 Editors: 
-VS Code                  2 hrs               █████████████████████████   100.00 % 
+VS Code                  7 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-matiflab                 1 hr 39 mins        █████████████████████░░░░   82.59 % 
-Documents                20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+matiflab                 5 hrs 51 mins       ████████████████████░░░░░   78.67 % 
+Documents                1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
 
 💻 Operating System: 
-Windows                  2 hrs               █████████████████████████   100.00 % 
+Windows                  7 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -113,7 +113,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 23/04/2026 17:24:20 UTC
+ Last Updated on 23/04/2026 20:56:41 UTC
 <!--END_SECTION:waka-->
 
 
