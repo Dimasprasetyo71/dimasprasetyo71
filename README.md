@@ -79,21 +79,21 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               4 hrs 34 mins       ██████████████░░░░░░░░░░░   55.19 % 
-Java                     1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-MDX                      1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+TypeScript               5 hrs 8 mins        █████████████░░░░░░░░░░░░   52.57 % 
+MDX                      1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Java                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+JSON                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-matiflab                 6 hrs 59 mins       █████████████████████░░░░   84.35 % 
-Documents                1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+matiflab                 8 hrs 29 mins       ██████████████████████░░░   86.77 % 
+Documents                1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
 
 💻 Operating System: 
-Windows                  8 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -113,7 +113,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 26/04/2026 16:50:14 UTC
+ Last Updated on 26/04/2026 20:42:27 UTC
 <!--END_SECTION:waka-->
 
 
