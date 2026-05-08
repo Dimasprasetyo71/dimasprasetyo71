@@ -79,23 +79,23 @@ Sunday                   21 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               6 hrs 22 mins       ████████████████░░░░░░░░░   65.69 % 
-MDX                      1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Python                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+TypeScript               6 hrs 22 mins       █████████████████░░░░░░░░   66.20 % 
+MDX                      1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Python                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 28 mins       ████████████████████████░   97.64 % 
-Neovim                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+VS Code                  9 hrs 23 mins       ████████████████████████░   97.62 % 
+Neovim                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🐱‍💻 Projects: 
-matiflab                 8 hrs 58 mins       ███████████████████████░░   92.57 % 
-Documents                42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+matiflab                 8 hrs 54 mins       ███████████████████████░░   92.51 % 
+Documents                42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 SoraClientUI             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  9 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,7 +115,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2026 17:22:15 UTC
+ Last Updated on 08/05/2026 21:05:07 UTC
 <!--END_SECTION:waka-->
 
 
