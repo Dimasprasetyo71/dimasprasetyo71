@@ -36,7 +36,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-559%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -79,24 +79,24 @@ Sunday                   21 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   3 hrs 2 mins        ████████████████░░░░░░░░░   62.00 % 
-TypeScript               1 hr 38 mins        ████████░░░░░░░░░░░░░░░░░   33.55 % 
-MDX                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-PHP                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Python                   3 hrs 2 mins        █████████████░░░░░░░░░░░░   51.88 % 
+TypeScript               1 hr 38 mins        ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+PHP                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 40 mins       ████████████████████████░   95.33 % 
-Neovim                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+VS Code                  5 hrs 38 mins       ████████████████████████░   96.09 % 
+Neovim                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 🐱‍💻 Projects: 
-Documents                3 hrs 2 mins        ████████████████░░░░░░░░░   62.00 % 
-matiflab                 1 hr 43 mins        █████████░░░░░░░░░░░░░░░░   35.05 % 
-Gudang-app               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-SoraClientUI             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Documents                4 hrs               █████████████████░░░░░░░░   68.20 % 
+matiflab                 1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+Gudang-app               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+SoraClientUI             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Windows                  4 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -116,7 +116,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2026 18:02:04 UTC
+ Last Updated on 12/05/2026 21:22:26 UTC
 <!--END_SECTION:waka-->
 
 
