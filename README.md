@@ -36,6 +36,8 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%205%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -77,21 +79,21 @@ Sunday                   22 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   2 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   38.33 % 
-TypeScript               2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   37.85 % 
-Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-PHP                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Python                   2 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.53 % 
+TypeScript               2 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   39.04 % 
+Markdown                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+PHP                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 46 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Documents                5 hrs 29 mins       ███████████████████████░░   92.09 % 
-Gudang-app               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Documents                5 hrs 18 mins       ███████████████████████░░   91.84 % 
+Gudang-app               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
 
 💻 Operating System: 
-Windows                  5 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -111,7 +113,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2026 17:03:39 UTC
+ Last Updated on 23/05/2026 20:56:42 UTC
 <!--END_SECTION:waka-->
 
 
