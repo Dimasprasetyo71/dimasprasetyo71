@@ -79,9 +79,9 @@ Sunday                   22 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   1 hr 57 mins        ████████████████░░░░░░░░░   64.30 % 
-JSON                     40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Python                   1 hr 57 mins        ████████████████░░░░░░░░░   64.26 % 
+JSON                     40 mins             █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
@@ -89,8 +89,8 @@ TOML                     3 mins              ░░░░░░░░░░░�
 VS Code                  3 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Documents                2 hrs 53 mins       ████████████████████████░   94.98 % 
-Gudang-app               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Documents                2 hrs 53 mins       ████████████████████████░   94.99 % 
+Gudang-app               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 
 💻 Operating System: 
 Windows                  3 hrs 3 mins        █████████████████████████   100.00 % 
@@ -113,7 +113,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2026 18:29:29 UTC
+ Last Updated on 26/05/2026 21:47:37 UTC
 <!--END_SECTION:waka-->
 
 
