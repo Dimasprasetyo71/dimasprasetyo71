@@ -36,6 +36,8 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-569%20hrs%205%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -50,6 +52,50 @@
  > 
 > 🔑 28 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+🌆 Daytime                84 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+🌃 Evening                168 commits         █████████░░░░░░░░░░░░░░░░   35.90 % 
+🌙 Night                  158 commits         ████████░░░░░░░░░░░░░░░░░   33.76 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   82 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Tuesday                  65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Wednesday                138 commits         ███████░░░░░░░░░░░░░░░░░░   29.49 % 
+Thursday                 105 commits         ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+Friday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Saturday                 37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Sunday                   22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Python                   1 hr 15 mins        █████████████░░░░░░░░░░░░   53.49 % 
+JSON                     40 mins             ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+TOML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 20 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Documents                2 hrs 11 mins       ███████████████████████░░   93.48 % 
+Gudang-app               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+
+💻 Operating System: 
+Windows                  2 hrs 20 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -67,7 +113,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 17:36:06 UTC
+ Last Updated on 28/05/2026 20:27:58 UTC
 <!--END_SECTION:waka-->
 
 
