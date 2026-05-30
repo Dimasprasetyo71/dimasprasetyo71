@@ -79,21 +79,21 @@ Sunday                   22 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   1 hr 49 mins        ███████████████░░░░░░░░░░   61.10 % 
-JSON                     40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Python                   1 hr 49 mins        ████████████████░░░░░░░░░   62.52 % 
+JSON                     40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Documents                2 hrs 49 mins       ████████████████████████░   94.87 % 
-Gudang-app               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Documents                2 hrs 45 mins       ████████████████████████░   94.75 % 
+Gudang-app               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 
 💻 Operating System: 
-Windows                  2 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -113,7 +113,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2026 15:10:47 UTC
+ Last Updated on 30/05/2026 17:10:51 UTC
 <!--END_SECTION:waka-->
 
 
