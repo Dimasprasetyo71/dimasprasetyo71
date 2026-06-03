@@ -52,6 +52,49 @@
  > 
 > 🔑 28 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+🌆 Daytime                84 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+🌃 Evening                168 commits         █████████░░░░░░░░░░░░░░░░   35.90 % 
+🌙 Night                  158 commits         ████████░░░░░░░░░░░░░░░░░   33.76 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   82 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Tuesday                  65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Wednesday                138 commits         ███████░░░░░░░░░░░░░░░░░░   29.49 % 
+Thursday                 105 commits         ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+Friday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Saturday                 37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Sunday                   22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Python                   1 hr 49 mins        ███████████████████████░░   93.25 % 
+XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+
+🔥 Editors: 
+VS Code                  1 hr 56 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Documents                1 hr 56 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -69,7 +112,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2026 23:48:53 UTC
+ Last Updated on 03/06/2026 04:23:51 UTC
 <!--END_SECTION:waka-->
 
 
