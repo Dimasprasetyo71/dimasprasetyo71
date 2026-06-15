@@ -79,18 +79,18 @@ Sunday                   22 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   2 hrs 24 mins       █████████████████████████   98.15 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Python                   2 hrs 24 mins       █████████████████████████   99.67 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 10 mins       ██████████████████████░░░   88.83 % 
-Neovim                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+VS Code                  2 hrs 8 mins        ██████████████████████░░░   88.63 % 
+Neovim                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
 
 🐱‍💻 Projects: 
-Documents                2 hrs 27 mins       █████████████████████████   100.00 % 
+Documents                2 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -110,7 +110,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2026 18:31:04 UTC
+ Last Updated on 15/06/2026 22:21:47 UTC
 <!--END_SECTION:waka-->
 
 
