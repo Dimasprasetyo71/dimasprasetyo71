@@ -42,7 +42,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 105.4 kB Used in GitHub's Storage 
+> 📦 105.3 kB Used in GitHub's Storage 
  > 
 > 🏆 39 Contributions in the Year 2026
  > 
@@ -79,18 +79,18 @@ Sunday                   22 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   2 hrs 24 mins       █████████████████████████   99.67 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Python                   1 hr 58 mins        █████████████████████████   99.99 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 8 mins        ██████████████████████░░░   88.63 % 
-Neovim                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+VS Code                  1 hr 41 mins        ██████████████████████░░░   86.08 % 
+Neovim                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
 
 🐱‍💻 Projects: 
-Documents                2 hrs 24 mins       █████████████████████████   100.00 % 
+Documents                1 hr 58 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 58 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -110,7 +110,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2026 18:22:38 UTC
+ Last Updated on 17/06/2026 22:02:44 UTC
 <!--END_SECTION:waka-->
 
 
