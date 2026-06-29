@@ -36,7 +36,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-578%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -79,17 +79,21 @@ Sunday                   22 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   1 hr 49 mins        █████████████████████████   100.00 % 
+Python                   1 hr 49 mins        ████████████████████░░░░░   80.83 % 
+PHP                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  1 hr 23 mins        ███████████████████░░░░░░   75.84 % 
-Neovim                   26 mins             ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+VS Code                  1 hr 49 mins        ████████████████████░░░░░   80.47 % 
+Neovim                   26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
 
 🐱‍💻 Projects: 
-Documents                1 hr 49 mins        █████████████████████████   100.00 % 
+Documents                2 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -109,7 +113,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2026 18:10:32 UTC
+ Last Updated on 29/06/2026 21:28:46 UTC
 <!--END_SECTION:waka-->
 
 
