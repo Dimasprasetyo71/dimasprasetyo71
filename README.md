@@ -36,7 +36,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-566%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-570%20hrs%2031%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20mins-blue?style=flat)
 
@@ -81,16 +81,21 @@ Sunday                   22 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     2 hrs 34 mins       █████████████████░░░░░░░░   67.21 % 
+JavaScript               41 mins             █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+CSS                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Documents                3 hrs 17 mins       █████████████████████░░░░   85.96 % 
+Brainify                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -116,7 +121,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 18:42:04 UTC
+ Last Updated on 11/10/2026 23:30:38 UTC
 <!--END_SECTION:waka-->
 
 
