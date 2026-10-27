@@ -36,7 +36,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-573%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-573%20hrs%2034%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20mins-blue?style=flat)
 
@@ -81,21 +81,22 @@ Sunday                   22 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     1 hr 34 mins        ████████████████░░░░░░░░░   63.49 % 
-Python                   42 mins             ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Java                     1 hr 34 mins        █████████████░░░░░░░░░░░░   51.74 % 
+Python                   42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+Assembly                 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+RGBDS Assembly           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 10 mins       ██████████████████████░░░   87.30 % 
-Neovim                   18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+VS Code                  2 hrs 44 mins       ██████████████████████░░░   89.65 % 
+Neovim                   18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
 
 🐱‍💻 Projects: 
-Documents                2 hrs 29 mins       █████████████████████████   100.00 % 
+Documents                2 hrs 29 mins       ████████████████████░░░░░   81.50 % 
+belajarAsm_gabut         33 mins             █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
 
 💻 Operating System: 
-Windows                  2 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -121,7 +122,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 16:38:51 UTC
+ Last Updated on 27/10/2026 04:11:48 UTC
 <!--END_SECTION:waka-->
 
 
