@@ -36,7 +36,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-573%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2027%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20mins-blue?style=flat)
 
@@ -81,22 +81,20 @@ Sunday                   22 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     1 hr 34 mins        █████████████░░░░░░░░░░░░   51.74 % 
-Python                   42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-Assembly                 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-RGBDS Assembly           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Java                     52 mins             ███████████████░░░░░░░░░░   60.44 % 
+Assembly                 31 mins             █████████░░░░░░░░░░░░░░░░   36.03 % 
+RGBDS Assembly           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 44 mins       ██████████████████████░░░   89.65 % 
-Neovim                   18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Documents                2 hrs 29 mins       ████████████████████░░░░░   81.50 % 
-belajarAsm_gabut         33 mins             █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Documents                52 mins             ███████████████░░░░░░░░░░   60.90 % 
+belajarAsm_gabut         33 mins             ██████████░░░░░░░░░░░░░░░   39.10 % 
 
 💻 Operating System: 
-Windows                  3 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -122,7 +120,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 12:22:23 UTC
+ Last Updated on 30/10/2026 19:02:11 UTC
 <!--END_SECTION:waka-->
 
 
