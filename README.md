@@ -106,11 +106,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               15 repos            ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Rust                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Blade                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+TypeScript               15 repos            ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Blade                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 
@@ -120,7 +120,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2026 04:39:28 UTC
+ Last Updated on 31/10/2026 11:52:50 UTC
 <!--END_SECTION:waka-->
 
 
