@@ -36,7 +36,7 @@
 
 ## Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2059%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20mins-blue?style=flat)
 
@@ -81,20 +81,21 @@ Sunday                   22 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     52 mins             ███████████████░░░░░░░░░░   60.44 % 
-Assembly                 31 mins             █████████░░░░░░░░░░░░░░░░   36.03 % 
-RGBDS Assembly           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Java                     52 mins             ███████████░░░░░░░░░░░░░░   43.90 % 
+C++                      32 mins             ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+Assembly                 31 mins             ███████░░░░░░░░░░░░░░░░░░   26.11 % 
+RGBDS Assembly           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 59 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Documents                52 mins             ███████████████░░░░░░░░░░   60.90 % 
-belajarAsm_gabut         33 mins             ██████████░░░░░░░░░░░░░░░   39.10 % 
+Documents                1 hr 25 mins        ██████████████████░░░░░░░   71.67 % 
+belajarAsm_gabut         33 mins             ███████░░░░░░░░░░░░░░░░░░   28.33 % 
 
 💻 Operating System: 
-Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -120,7 +121,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Dimasprasetyo71/Dimasprasetyo71/vercel/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2026 16:59:52 UTC
+ Last Updated on 01/11/2026 00:47:29 UTC
 <!--END_SECTION:waka-->
 
 
